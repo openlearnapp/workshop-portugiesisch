@@ -1,0 +1,9 @@
+workshops:
+  - folder: portugiesisch
+    code: pt-PT
+    title: "Portugiesisch"
+    description: "10 Lektionen zu den 30 wichtigsten portugiesischen Verben und ihren Konjugationen."
+    color: "30 50% 95%"
+    primaryColor: "25 80% 50%"
+    coach:
+      email: "open-learn@felixboehm.it"
