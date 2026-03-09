@@ -1,6 +1,6 @@
 # Workshop: Portugiesisch lernen
 
-> **[🌐 Landing Page](https://open-learn.app/workshop-portugiesisch/)** · **[🚀 Workshop starten](https://open-learn.app/#/add?source=https://open-learn.app/workshop-portugiesisch)**
+> **[🌐 Landing Page](https://open-learn.app/workshop-portugiesisch/)** · **[🚀 Start Workshop](https://open-learn.app/#/add?source=https://open-learn.app/workshop-portugiesisch)**
 
 10 Lektionen zu den 30 wichtigsten portugiesischen Verben und ihren Konjugationen.
 
