@@ -1,0 +1,249 @@
+number: 5
+title: "آرزوها و ترجیحات - خواستن، ماندن، دوست داشتن"
+description: "افعال querer، ficar و gostar با تمام صرف‌ها"
+sections:
+  - title: "Querer"
+    explanation: |
+      **Querer** به معنی **خواستن** است:
+      - بیان آرزوها
+      - خواستن، میل داشتن
+      - اغلب با مصدر (quero comer = می‌خواهم بخورم)
+
+      **صرف زمان حال**:
+      - eu quero (من می‌خواهم)
+      - tu queres (تو می‌خواهی)
+      - ele/ela/você quer (او می‌خواهد)
+      - nós queremos (ما می‌خواهیم)
+      - vós quereis (شما می‌خواهید)
+      - eles/elas querem (آن‌ها می‌خواهند)
+      - **Gerúndio**: querendo (خواستن)
+    examples:
+      - q: "Eu quero café."
+        a: "من قهوه می‌خواهم."
+        labels: ["حال", "اول شخص مفرد"]
+        rel:
+          - ["quero", "می‌خواهم", "querer - من می‌خواهم"]
+          - ["café", "قهوه", "اسم - نوشیدنی"]
+
+      - q: "Tu queres ir ao cinema?"
+        a: "آیا می‌خواهی به سینما بروی؟"
+        labels: ["حال", "دوم شخص مفرد", "سوال"]
+        rel:
+          - ["queres", "می‌خواهی", "querer - تو می‌خواهی"]
+          - ["ir", "رفتن", "فعل"]
+          - ["cinema", "سینما", "اسم"]
+
+      - q: "Ele quer aprender português."
+        a: "او می‌خواهد پرتغالی یاد بگیرد."
+        labels: ["حال", "سوم شخص مفرد"]
+        rel:
+          - ["quer", "می‌خواهد", "querer - او می‌خواهد"]
+          - ["aprender", "یاد گرفتن", "فعل"]
+          - ["português", "پرتغالی", "زبان"]
+
+      - q: "Nós queremos ajudar."
+        a: "ما می‌خواهیم کمک کنیم."
+        labels: ["حال", "اول شخص جمع"]
+        rel:
+          - ["queremos", "می‌خواهیم", "querer - ما می‌خواهیم"]
+          - ["ajudar", "کمک کردن", "فعل"]
+
+      - q: "Vós quereis comer alguma coisa?"
+        a: "آیا می‌خواهید چیزی بخورید؟"
+        labels: ["حال", "دوم شخص جمع", "سوال"]
+        rel:
+          - ["quereis", "می‌خواهید", "querer - شما می‌خواهید"]
+          - ["comer", "خوردن", "فعل"]
+          - ["alguma coisa", "چیزی", "اصطلاح"]
+
+      - q: "Eles querem paz."
+        a: "آن‌ها صلح می‌خواهند."
+        labels: ["حال", "سوم شخص جمع"]
+        rel:
+          - ["querem", "می‌خواهند", "querer - آن‌ها می‌خواهند"]
+          - ["paz", "صلح", "اسم"]
+
+      - q: "Querendo ou não, tens que ir."
+        a: "چه بخواهی چه نخواهی، باید بروی."
+        labels: ["Gerúndio"]
+        rel:
+          - ["querendo", "خواستن", "querer - وجه وصفی"]
+          - ["ou não", "یا نه", "اصطلاح"]
+
+  - title: "Ficar"
+    explanation: |
+      **Ficar** معانی مختلفی دارد:
+      - ماندن (در یک مکان)
+      - شدن (تغییر حالت)
+      - قرار داشتن
+      - مناسب بودن (ficar bem)
+
+      **صرف زمان حال**:
+      - eu fico (من می‌مانم)
+      - tu ficas (تو می‌مانی)
+      - ele/ela/você fica (او می‌ماند)
+      - nós ficamos (ما می‌مانیم)
+      - vós ficais (شما می‌مانید)
+      - eles/elas ficam (آن‌ها می‌مانند)
+      - **Gerúndio**: ficando (ماندن)
+    examples:
+      - q: "Eu fico em casa."
+        a: "من در خانه می‌مانم."
+        labels: ["حال", "اول شخص مفرد"]
+        rel:
+          - ["fico", "می‌مانم", "ficar - من می‌مانم"]
+          - ["em casa", "در خانه", "مکان"]
+
+      - q: "Tu ficas contente com isso?"
+        a: "آیا با این راضی می‌شوی؟"
+        labels: ["حال", "دوم شخص مفرد"]
+        rel:
+          - ["ficas", "می‌شوی", "ficar - تو می‌شوی"]
+          - ["contente", "راضی", "صفت"]
+          - ["com isso", "با این", "اصطلاح"]
+
+      - q: "Ela fica no hotel."
+        a: "او در هتل می‌ماند."
+        labels: ["حال", "سوم شخص مفرد"]
+        rel:
+          - ["fica", "می‌ماند", "ficar - او می‌ماند"]
+          - ["hotel", "هتل", "اسم - اقامتگاه"]
+
+      - q: "Nós ficamos aqui."
+        a: "ما اینجا می‌مانیم."
+        labels: ["حال", "اول شخص جمع"]
+        rel:
+          - ["ficamos", "می‌مانیم", "ficar - ما می‌مانیم"]
+          - ["aqui", "اینجا", "مکان"]
+
+      - q: "Vós ficais bem com essas roupas."
+        a: "این لباس‌ها به شما می‌آید."
+        labels: ["حال", "دوم شخص جمع"]
+        rel:
+          - ["ficais", "می‌آید", "ficar - مناسب بودن"]
+          - ["bem", "خوب", "قید"]
+          - ["roupas", "لباس‌ها", "اسم"]
+
+      - q: "Eles ficam nervosos."
+        a: "آن‌ها عصبانی می‌شوند."
+        labels: ["حال", "سوم شخص جمع"]
+        rel:
+          - ["ficam", "می‌شوند", "ficar - آن‌ها می‌شوند"]
+          - ["nervosos", "عصبانی", "صفت"]
+
+      - q: "Ficando tarde, vou embora."
+        a: "چون دیر شد، می‌روم."
+        labels: ["Gerúndio"]
+        rel:
+          - ["ficando", "شدن", "ficar - وجه وصفی"]
+          - ["tarde", "دیر", "زمان"]
+          - ["vou embora", "می‌روم", "اصطلاح"]
+
+  - title: "Gostar"
+    explanation: |
+      **Gostar** به معنی **دوست داشتن** است:
+      - بیان ترجیحات
+      - **همیشه با "de"** (gostar de)
+      - سلیقه، ترجیح
+
+      **صرف زمان حال**:
+      - eu gosto (من دوست دارم)
+      - tu gostas (تو دوست داری)
+      - ele/ela/você gosta (او دوست دارد)
+      - nós gostamos (ما دوست داریم)
+      - vós gostais (شما دوست دارید)
+      - eles/elas gostam (آن‌ها دوست دارند)
+      - **Gerúndio**: gostando (دوست داشتن)
+    examples:
+      - q: "Eu gosto de música."
+        a: "من موسیقی دوست دارم."
+        labels: ["حال", "اول شخص مفرد"]
+        rel:
+          - ["gosto de", "دوست دارم", "gostar - من دوست دارم"]
+          - ["música", "موسیقی", "اسم"]
+
+      - q: "Tu gostas de ler?"
+        a: "آیا خواندن دوست داری؟"
+        labels: ["حال", "دوم شخص مفرد", "سوال"]
+        rel:
+          - ["gostas de", "دوست داری", "gostar - تو دوست داری"]
+          - ["ler", "خواندن", "فعل"]
+
+      - q: "Ela gosta de viajar."
+        a: "او سفر کردن دوست دارد."
+        labels: ["حال", "سوم شخص مفرد"]
+        rel:
+          - ["gosta de", "دوست دارد", "gostar - او دوست دارد"]
+          - ["viajar", "سفر کردن", "فعل"]
+
+      - q: "Nós gostamos de ti."
+        a: "ما تو را دوست داریم."
+        labels: ["حال", "اول شخص جمع"]
+        rel:
+          - ["gostamos de", "دوست داریم", "gostar - ما دوست داریم"]
+          - ["ti", "تو", "ضمیر"]
+
+      - q: "Vós gostais de chocolate?"
+        a: "آیا شکلات دوست دارید؟"
+        labels: ["حال", "دوم شخص جمع", "سوال"]
+        rel:
+          - ["gostais de", "دوست دارید", "gostar - شما دوست دارید"]
+          - ["chocolate", "شکلات", "اسم - غذا"]
+
+      - q: "Eles gostam de futebol."
+        a: "آن‌ها فوتبال دوست دارند."
+        labels: ["حال", "سوم شخص جمع"]
+        rel:
+          - ["gostam de", "دوست دارند", "gostar - آن‌ها دوست دارند"]
+          - ["futebol", "فوتبال", "اسم - ورزش"]
+
+      - q: "Gostando do lugar, fico mais tempo."
+        a: "اگر مکان را دوست داشته باشم، بیشتر می‌مانم."
+        labels: ["Gerúndio"]
+        rel:
+          - ["gostando de", "دوست داشتن", "gostar - وجه وصفی"]
+          - ["lugar", "مکان", "اسم"]
+          - ["mais tempo", "بیشتر", "زمان"]
+
+  - title: "اصطلاحات با Querer و Gostar"
+    explanation: |
+      **اصطلاحات رایج**:
+      - Querer dizer = معنی دادن (چه معنی دارد؟)
+      - Querer bem = دوست داشتن کسی
+      - Gostar muito = خیلی دوست داشتن
+      - Não gostar nada = اصلاً دوست نداشتن
+    examples:
+      - q: "O que quer dizer?"
+        a: "چه معنی می‌دهد؟"
+        labels: ["اصطلاح", "سوال"]
+        rel:
+          - ["quer dizer", "معنی می‌دهد", "اصطلاح"]
+          - ["o que", "چه", "کلمه پرسشی"]
+
+      - q: "Eu quero-te bem."
+        a: "من تو را دوست دارم."
+        labels: ["اصطلاح"]
+        rel:
+          - ["quero-te bem", "تو را دوست دارم", "اصطلاح"]
+
+      - q: "Gosto muito de ti."
+        a: "خیلی تو را دوست دارم."
+        labels: ["اصطلاح"]
+        rel:
+          - ["gosto muito", "خیلی دوست دارم", "تقویت‌کننده"]
+          - ["muito", "خیلی", "قید"]
+
+      - q: "Não gosto nada disso."
+        a: "اصلاً آن را دوست ندارم."
+        labels: ["اصطلاح", "نفی"]
+        rel:
+          - ["não gosto nada", "اصلاً دوست ندارم", "نفی"]
+          - ["nada", "هیچ/اصلاً", "قید"]
+          - ["disso", "از آن", "ضمیر"]
+
+      - q: "Queres alguma coisa?"
+        a: "چیزی می‌خواهی؟"
+        labels: ["ادب", "سوال"]
+        rel:
+          - ["queres", "می‌خواهی", "querer - پیشنهاد"]
+          - ["alguma coisa", "چیزی", "اصطلاح"]

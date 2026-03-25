@@ -1,0 +1,244 @@
+number: 6
+title: "Carrying and Meeting - To Bring, To Carry, To Find"
+description: "The verbs trazer, levar and encontrar with all conjugations"
+sections:
+  - title: "Trazer"
+    explanation: |
+      **Trazer** means **to bring** (towards the speaker):
+      - Bringing something to the speaker
+      - Bringing along
+      - Causing, bringing about
+
+      **Present tense conjugation**:
+      - eu trago (I bring)
+      - tu trazes (you bring)
+      - ele/ela/você traz (he/she brings)
+      - nós trazemos (we bring)
+      - vós trazeis (you bring - plural)
+      - eles/elas trazem (they bring)
+      - **Gerúndio**: trazendo (bringing)
+    examples:
+      - q: "Eu trago o livro."
+        a: "I bring the book."
+        labels: ["Present", "1st Person Singular"]
+        rel:
+          - ["trago", "bring", "trazer - I bring"]
+          - ["livro", "book", "Noun"]
+
+      - q: "Tu trazes a comida?"
+        a: "Are you bringing the food?"
+        labels: ["Present", "2nd Person Singular", "Question"]
+        rel:
+          - ["trazes", "bring", "trazer - you bring"]
+          - ["comida", "food", "Noun"]
+
+      - q: "Ele traz boas notícias."
+        a: "He brings good news."
+        labels: ["Present", "3rd Person Singular"]
+        rel:
+          - ["traz", "brings", "trazer - he/she brings"]
+          - ["boas notícias", "good news", "Expression"]
+          - ["notícias", "news", "Noun"]
+
+      - q: "Nós trazemos presentes."
+        a: "We bring gifts."
+        labels: ["Present", "1st Person Plural"]
+        rel:
+          - ["trazemos", "bring", "trazer - we bring"]
+          - ["presentes", "gifts", "Noun"]
+
+      - q: "Vós trazeis os documentos?"
+        a: "Are you bringing the documents?"
+        labels: ["Present", "2nd Person Plural", "Question"]
+        rel:
+          - ["trazeis", "bring", "trazer - you bring"]
+          - ["documentos", "documents", "Noun"]
+
+      - q: "Eles trazem problemas."
+        a: "They bring problems."
+        labels: ["Present", "3rd Person Plural"]
+        rel:
+          - ["trazem", "bring", "trazer - they bring"]
+          - ["problemas", "problems", "Noun"]
+
+      - q: "Trazendo ajuda, salvamos vidas."
+        a: "By bringing help, we save lives."
+        labels: ["Gerúndio"]
+        rel:
+          - ["trazendo", "bringing", "trazer - Gerund"]
+          - ["ajuda", "help", "Noun"]
+          - ["vidas", "lives", "Noun"]
+
+  - title: "Levar"
+    explanation: |
+      **Levar** means **to take/carry** (away from the speaker):
+      - Taking something along, carrying away
+      - Taking someone (by car)
+      - Taking time (leva tempo)
+
+      **Present tense conjugation**:
+      - eu levo (I take/carry)
+      - tu levas (you take/carry)
+      - ele/ela/você leva (he/she takes/carries)
+      - nós levamos (we take/carry)
+      - vós levais (you take/carry - plural)
+      - eles/elas levam (they take/carry)
+      - **Gerúndio**: levando (taking/carrying)
+    examples:
+      - q: "Eu levo o carro."
+        a: "I take the car."
+        labels: ["Present", "1st Person Singular"]
+        rel:
+          - ["levo", "take", "levar - I take"]
+          - ["carro", "car", "Noun - Vehicle"]
+
+      - q: "Tu levas a mala?"
+        a: "Are you carrying the suitcase?"
+        labels: ["Present", "2nd Person Singular", "Question"]
+        rel:
+          - ["levas", "carry", "levar - you carry"]
+          - ["mala", "suitcase", "Noun"]
+
+      - q: "Ela leva as crianças à escola."
+        a: "She takes the children to school."
+        labels: ["Present", "3rd Person Singular"]
+        rel:
+          - ["leva", "takes", "levar - he/she takes"]
+          - ["crianças", "children", "Noun"]
+          - ["escola", "school", "Noun"]
+
+      - q: "Nós levamos tempo."
+        a: "We take time."
+        labels: ["Present", "1st Person Plural"]
+        rel:
+          - ["levamos", "take", "levar - we take"]
+          - ["tempo", "time", "Noun"]
+
+      - q: "Vós levais os sacos?"
+        a: "Are you carrying the bags?"
+        labels: ["Present", "2nd Person Plural", "Question"]
+        rel:
+          - ["levais", "carry", "levar - you carry"]
+          - ["sacos", "bags", "Noun"]
+
+      - q: "Eles levam uma vida feliz."
+        a: "They lead a happy life."
+        labels: ["Present", "3rd Person Plural"]
+        rel:
+          - ["levam", "lead", "levar - they lead"]
+          - ["vida", "life", "Noun"]
+          - ["feliz", "happy", "Adjective"]
+
+      - q: "Levando isto em conta, decido."
+        a: "Taking this into account, I decide."
+        labels: ["Gerúndio"]
+        rel:
+          - ["levando", "taking", "levar - Gerund"]
+          - ["em conta", "into account", "Expression"]
+
+  - title: "Encontrar"
+    explanation: |
+      **Encontrar** means **to find/to meet**:
+      - Finding something
+      - Meeting someone (by chance or planned)
+      - Being located
+
+      **Present tense conjugation**:
+      - eu encontro (I find/meet)
+      - tu encontras (you find/meet)
+      - ele/ela/você encontra (he/she finds/meets)
+      - nós encontramos (we find/meet)
+      - vós encontrais (you find/meet - plural)
+      - eles/elas encontram (they find/meet)
+      - **Gerúndio**: encontrando (finding/meeting)
+    examples:
+      - q: "Eu encontro o caminho."
+        a: "I find the way."
+        labels: ["Present", "1st Person Singular"]
+        rel:
+          - ["encontro", "find", "encontrar - I find"]
+          - ["caminho", "way", "Noun"]
+
+      - q: "Tu encontras a solução?"
+        a: "Do you find the solution?"
+        labels: ["Present", "2nd Person Singular", "Question"]
+        rel:
+          - ["encontras", "find", "encontrar - you find"]
+          - ["solução", "solution", "Noun"]
+
+      - q: "Ela encontra amigos no café."
+        a: "She meets friends at the cafe."
+        labels: ["Present", "3rd Person Singular"]
+        rel:
+          - ["encontra", "meets", "encontrar - he/she meets"]
+          - ["amigos", "friends", "Noun"]
+          - ["café", "cafe", "Noun - Location"]
+
+      - q: "Nós encontramos dificuldades."
+        a: "We encounter difficulties."
+        labels: ["Present", "1st Person Plural"]
+        rel:
+          - ["encontramos", "encounter", "encontrar - we find"]
+          - ["dificuldades", "difficulties", "Noun"]
+
+      - q: "Vós encontrais sempre desculpas."
+        a: "You always find excuses."
+        labels: ["Present", "2nd Person Plural"]
+        rel:
+          - ["encontrais", "find", "encontrar - you find"]
+          - ["sempre", "always", "Adverb"]
+          - ["desculpas", "excuses", "Noun"]
+
+      - q: "Eles encontram-se às sete."
+        a: "They meet at seven."
+        labels: ["Present", "3rd Person Plural"]
+        rel:
+          - ["encontram-se", "meet", "encontrar-se - reflexive"]
+          - ["às sete", "at seven", "Time"]
+
+      - q: "Encontrando a chave, abro a porta."
+        a: "Finding the key, I open the door."
+        labels: ["Gerúndio"]
+        rel:
+          - ["encontrando", "finding", "encontrar - Gerund"]
+          - ["chave", "key", "Noun"]
+          - ["porta", "door", "Noun"]
+
+  - title: "Trazer vs Levar"
+    explanation: |
+      **Important difference**:
+      - **Trazer**: towards the speaker (bring to me)
+      - **Levar**: away from the speaker (take away from me)
+
+      Like in English: bring vs. take
+    examples:
+      - q: "Trago o vinho para a festa."
+        a: "I bring the wine to the party (I'm going too)."
+        labels: ["Trazer", "Direction"]
+        rel:
+          - ["trago", "bring", "trazer - towards"]
+          - ["vinho", "wine", "Noun - Drink"]
+          - ["festa", "party", "Noun"]
+
+      - q: "Levo o lixo para fora."
+        a: "I take the trash out."
+        labels: ["Levar", "Direction"]
+        rel:
+          - ["levo", "take", "levar - away"]
+          - ["lixo", "trash", "Noun"]
+          - ["para fora", "outside", "Direction"]
+
+      - q: "Podes trazer-me água?"
+        a: "Can you bring me water?"
+        labels: ["Trazer", "Request"]
+        rel:
+          - ["trazer-me", "bring me", "towards me"]
+          - ["água", "water", "Noun - Drink"]
+
+      - q: "Vou levar o cachorro ao veterinário."
+        a: "I'm going to take the dog to the vet."
+        labels: ["Levar", "Direction"]
+        rel:
+          - ["levar", "take", "levar - take away"]
+          - ["cachorro", "dog", "Noun - Animal"]
+          - ["veterinário", "vet", "Noun - Profession"]

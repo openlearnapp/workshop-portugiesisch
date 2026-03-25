@@ -1,0 +1,211 @@
+number: 9
+title: "رسیدن و تعهد - رسیدن، عبور کردن، باید"
+description: "افعال chegar، passar و dever با تمام صرف‌ها"
+sections:
+  - title: "Chegar"
+    explanation: |
+      **Chegar** به معنی **رسیدن** است:
+      - رسیدن، وارد شدن
+      - کافی بودن
+      - Chegar a = رسیدن به...
+
+      **صرف زمان حال**:
+      - eu chego (من می‌رسم)
+      - tu chegas (تو می‌رسی)
+      - ele/ela/você chega (او می‌رسد)
+      - nós chegamos (ما می‌رسیم)
+      - vós chegais (شما می‌رسید)
+      - eles/elas chegam (آن‌ها می‌رسند)
+      - **Gerúndio**: chegando (رسیدن)
+    examples:
+      - q: "Eu chego às sete."
+        a: "من ساعت هفت می‌رسم."
+        labels: ["حال", "اول شخص مفرد"]
+        rel:
+          - ["chego", "می‌رسم", "chegar - من می‌رسم"]
+          - ["às sete", "ساعت هفت", "زمان"]
+      - q: "Tu chegas tarde."
+        a: "تو دیر می‌رسی."
+        labels: ["حال", "دوم شخص مفرد"]
+        rel:
+          - ["chegas", "می‌رسی", "chegar - تو می‌رسی"]
+          - ["tarde", "دیر", "زمان"]
+      - q: "Ele chega amanhã."
+        a: "او فردا می‌رسد."
+        labels: ["حال", "سوم شخص مفرد"]
+        rel:
+          - ["chega", "می‌رسد", "chegar - او می‌رسد"]
+          - ["amanhã", "فردا", "زمان"]
+      - q: "Nós chegamos a Lisboa."
+        a: "ما به لیسبون می‌رسیم."
+        labels: ["حال", "اول شخص جمع"]
+        rel:
+          - ["chegamos", "می‌رسیم", "chegar - ما می‌رسیم"]
+          - ["Lisboa", "لیسبون", "شهر"]
+      - q: "Vós chegais cedo?"
+        a: "آیا زود می‌رسید؟"
+        labels: ["حال", "دوم شخص جمع", "سوال"]
+        rel:
+          - ["chegais", "می‌رسید", "chegar - شما می‌رسید"]
+          - ["cedo", "زود", "زمان"]
+      - q: "Eles chegam de avião."
+        a: "آن‌ها با هواپیما می‌رسند."
+        labels: ["حال", "سوم شخص جمع"]
+        rel:
+          - ["chegam", "می‌رسند", "chegar - آن‌ها می‌رسند"]
+          - ["avião", "هواپیما", "اسم - حمل و نقل"]
+      - q: "Chegando lá, telefono-te."
+        a: "وقتی رسیدم آنجا، بهت زنگ می‌زنم."
+        labels: ["Gerúndio"]
+        rel:
+          - ["chegando", "رسیدن", "chegar - وجه وصفی"]
+          - ["lá", "آنجا", "مکان"]
+
+  - title: "Passar"
+    explanation: |
+      **Passar** معانی مختلفی دارد:
+      - عبور کردن، رد شدن
+      - گذراندن (وقت)
+      - قبول شدن (امتحان)
+      - اتو کردن (لباس)
+
+      **صرف زمان حال**:
+      - eu passo (من عبور می‌کنم)
+      - tu passas (تو عبور می‌کنی)
+      - ele/ela/você passa (او عبور می‌کند)
+      - nós passamos (ما عبور می‌کنیم)
+      - vós passais (شما عبور می‌کنید)
+      - eles/elas passam (آن‌ها عبور می‌کنند)
+      - **Gerúndio**: passando (عبور کردن)
+    examples:
+      - q: "Eu passo pela escola."
+        a: "من از کنار مدرسه رد می‌شوم."
+        labels: ["حال", "اول شخص مفرد"]
+        rel:
+          - ["passo", "رد می‌شوم", "passar - من عبور می‌کنم"]
+          - ["escola", "مدرسه", "اسم"]
+      - q: "Tu passas férias aqui?"
+        a: "آیا اینجا تعطیلات را می‌گذرانی؟"
+        labels: ["حال", "دوم شخص مفرد", "سوال"]
+        rel:
+          - ["passas", "می‌گذرانی", "passar - تو می‌گذرانی"]
+          - ["férias", "تعطیلات", "اسم"]
+      - q: "Ela passa no exame."
+        a: "او در امتحان قبول می‌شود."
+        labels: ["حال", "سوم شخص مفرد"]
+        rel:
+          - ["passa", "قبول می‌شود", "passar - او قبول می‌شود"]
+          - ["exame", "امتحان", "اسم"]
+      - q: "Nós passamos bem."
+        a: "حال ما خوب است."
+        labels: ["حال", "اول شخص جمع"]
+        rel:
+          - ["passamos bem", "حالمان خوب است", "اصطلاح"]
+          - ["bem", "خوب", "قید"]
+      - q: "Vós passais por aqui?"
+        a: "آیا از اینجا رد می‌شوید؟"
+        labels: ["حال", "دوم شخص جمع", "سوال"]
+        rel:
+          - ["passais", "رد می‌شوید", "passar - شما عبور می‌کنید"]
+          - ["por aqui", "از اینجا", "مکان"]
+      - q: "Eles passam o fim de semana fora."
+        a: "آن‌ها آخر هفته را بیرون می‌گذرانند."
+        labels: ["حال", "سوم شخص جمع"]
+        rel:
+          - ["passam", "می‌گذرانند", "passar - آن‌ها می‌گذرانند"]
+          - ["fim de semana", "آخر هفته", "زمان"]
+          - ["fora", "بیرون", "مکان"]
+      - q: "Passando mal, vou ao médico."
+        a: "اگر حالم بد باشد، به پزشک می‌روم."
+        labels: ["Gerúndio"]
+        rel:
+          - ["passando", "گذراندن", "passar - وجه وصفی"]
+          - ["mal", "بد", "قید"]
+
+  - title: "Dever"
+    explanation: |
+      **Dever** به معنی **باید/بدهکار بودن** است:
+      - تعهد، وظیفه (باید)
+      - بدهکار بودن پول
+      - احتمال (deve ser = باید باشد)
+
+      **صرف زمان حال**:
+      - eu devo (من باید/بدهکارم)
+      - tu deves (تو باید/بدهکاری)
+      - ele/ela/você deve (او باید/بدهکار است)
+      - nós devemos (ما باید/بدهکاریم)
+      - vós deveis (شما باید/بدهکارید)
+      - eles/elas devem (آن‌ها باید/بدهکارند)
+      - **Gerúndio**: devendo (بدهکار بودن)
+    examples:
+      - q: "Eu devo estudar."
+        a: "من باید درس بخوانم."
+        labels: ["حال", "اول شخص مفرد"]
+        rel:
+          - ["devo", "باید", "dever - من باید"]
+          - ["estudar", "درس خواندن", "فعل"]
+      - q: "Tu deves dinheiro?"
+        a: "آیا پول بدهکاری؟"
+        labels: ["حال", "دوم شخص مفرد", "سوال"]
+        rel:
+          - ["deves", "بدهکاری", "dever - تو بدهکاری"]
+          - ["dinheiro", "پول", "اسم"]
+      - q: "Ele deve trabalhar."
+        a: "او باید کار کند."
+        labels: ["حال", "سوم شخص مفرد"]
+        rel:
+          - ["deve", "باید", "dever - او باید"]
+          - ["trabalhar", "کار کردن", "فعل"]
+      - q: "Nós devemos ir."
+        a: "ما باید برویم."
+        labels: ["حال", "اول شخص جمع"]
+        rel:
+          - ["devemos", "باید", "dever - ما باید"]
+          - ["ir", "رفتن", "فعل"]
+      - q: "Vós deveis respeito."
+        a: "شما احترام بدهکارید."
+        labels: ["حال", "دوم شخص جمع"]
+        rel:
+          - ["deveis", "بدهکارید", "dever - شما بدهکارید"]
+          - ["respeito", "احترام", "اسم"]
+      - q: "Eles devem chegar cedo."
+        a: "آن‌ها باید زود برسند."
+        labels: ["حال", "سوم شخص جمع"]
+        rel:
+          - ["devem", "باید", "dever - آن‌ها باید"]
+          - ["cedo", "زود", "زمان"]
+      - q: "Devendo muito, pago aos poucos."
+        a: "با بدهکاری زیاد، کم‌کم پرداخت می‌کنم."
+        labels: ["Gerúndio"]
+        rel:
+          - ["devendo", "بدهکار بودن", "dever - وجه وصفی"]
+          - ["aos poucos", "کم‌کم", "اصطلاح"]
+
+  - title: "اصطلاحات زمانی"
+    explanation: |
+      **اصطلاحات مفید**:
+      - Chegar a tempo = به موقع رسیدن
+      - Passar o tempo = وقت گذراندن
+      - Não chega = کافی نیست
+      - Que se passa? = چه خبر است؟
+    examples:
+      - q: "Chego sempre a tempo."
+        a: "من همیشه به موقع می‌رسم."
+        labels: ["اصطلاح"]
+        rel:
+          - ["a tempo", "به موقع", "زمان"]
+      - q: "O dinheiro não chega."
+        a: "پول کافی نیست."
+        labels: ["اصطلاح"]
+        rel:
+          - ["não chega", "کافی نیست", "اصطلاح"]
+      - q: "Como passa o tempo!"
+        a: "چقدر زمان زود می‌گذرد!"
+        labels: ["اصطلاح"]
+        rel:
+          - ["passa o tempo", "زمان می‌گذرد", "اصطلاح"]
+      - q: "O que se passa aqui?"
+        a: "اینجا چه خبر است؟"
+        labels: ["اصطلاح", "سوال"]
+        rel:
+          - ["que se passa", "چه خبر است", "اصطلاح"]

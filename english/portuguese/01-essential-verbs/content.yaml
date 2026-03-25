@@ -1,0 +1,257 @@
+version: 1
+number: 1
+title: "Essential Verbs - To Be and To Have"
+description: "The most important verbs ser, estar and ter with all conjugations"
+sections:
+  - title: "Ser"
+    explanation: |
+      **Ser** is used for **permanent states**:
+      - Identity, nationality, profession
+      - Character traits
+      - Time, date
+
+      **Present tense conjugation**:
+      - eu sou (I am)
+      - tu és (you are)
+      - ele/ela/você é (he/she is, you are)
+      - nós somos (we are)
+      - vós sois (you are - plural)
+      - eles/elas são (they are)
+      - **Gerúndio**: sendo (being)
+    examples:
+      - q: "Eu sou professor."
+        a: "I am a teacher."
+        labels: ["Present", "1st Person Singular"]
+        rel:
+          - ["sou", "am", "ser - I am"]
+          - ["professor", "teacher", "Noun - Profession"]
+
+      - q: "Tu és inteligente."
+        a: "You are intelligent."
+        labels: ["Present", "2nd Person Singular"]
+        rel:
+          - ["és", "are", "ser - you are"]
+          - ["inteligente", "intelligent", "Adjective"]
+
+      - q: "Ela é portuguesa."
+        a: "She is Portuguese."
+        labels: ["Present", "3rd Person Singular"]
+        rel:
+          - ["é", "is", "ser - he/she/it is"]
+          - ["portuguesa", "Portuguese", "Nationality"]
+
+      - q: "Nós somos estudantes."
+        a: "We are students."
+        labels: ["Present", "1st Person Plural"]
+        rel:
+          - ["somos", "are", "ser - we are"]
+          - ["estudantes", "students", "Noun - Profession"]
+
+      - q: "Vós sois amigos."
+        a: "You are friends."
+        labels: ["Present", "2nd Person Plural"]
+        rel:
+          - ["sois", "are", "ser - you are"]
+          - ["amigos", "friends", "Noun - Relationship"]
+
+      - q: "Eles são médicos."
+        a: "They are doctors."
+        labels: ["Present", "3rd Person Plural"]
+        rel:
+          - ["são", "are", "ser - they are"]
+          - ["médicos", "doctors", "Noun - Profession"]
+
+      - q: "Sendo honesto, não gosto."
+        a: "Being honest, I don't like it."
+        labels: ["Gerúndio"]
+        rel:
+          - ["sendo", "being", "ser - Gerund"]
+          - ["honesto", "honest", "Adjective"]
+
+  - title: "Estar"
+    explanation: |
+      **Estar** is used for **temporary states** and **locations**:
+      - Temporary states, feelings
+      - Where something/someone is located
+      - Progressive form (estar + Gerund)
+
+      **Present tense conjugation**:
+      - eu estou (I am)
+      - tu estás (you are)
+      - ele/ela/você está (he/she is, you are)
+      - nós estamos (we are)
+      - vós estais (you are - plural)
+      - eles/elas estão (they are)
+      - **Gerúndio**: estando (being)
+    examples:
+      - q: "Eu estou cansado."
+        a: "I am tired."
+        labels: ["Present", "1st Person Singular"]
+        rel:
+          - ["estou", "am", "estar - I am"]
+          - ["cansado", "tired", "Adjective - State"]
+
+      - q: "Tu estás em casa."
+        a: "You are at home."
+        labels: ["Present", "2nd Person Singular"]
+        rel:
+          - ["estás", "are", "estar - you are"]
+          - ["em casa", "at home", "Location"]
+
+      - q: "Ele está feliz hoje."
+        a: "He is happy today."
+        labels: ["Present", "3rd Person Singular"]
+        rel:
+          - ["está", "is", "estar - he/she/it is"]
+          - ["feliz", "happy", "Adjective - Emotion"]
+          - ["hoje", "today", "Time"]
+
+      - q: "Nós estamos no restaurante."
+        a: "We are at the restaurant."
+        labels: ["Present", "1st Person Plural"]
+        rel:
+          - ["estamos", "are", "estar - we are"]
+          - ["no restaurante", "at the restaurant", "Location"]
+
+      - q: "Vós estais ocupados."
+        a: "You are busy."
+        labels: ["Present", "2nd Person Plural"]
+        rel:
+          - ["estais", "are", "estar - you are"]
+          - ["ocupados", "busy", "Adjective - State"]
+
+      - q: "Eles estão em Lisboa."
+        a: "They are in Lisbon."
+        labels: ["Present", "3rd Person Plural"]
+        rel:
+          - ["estão", "are", "estar - they are"]
+          - ["em Lisboa", "in Lisbon", "Location"]
+
+      - q: "Estando doente, fiquei em casa."
+        a: "Being sick, I stayed at home."
+        labels: ["Gerúndio"]
+        rel:
+          - ["estando", "being", "estar - Gerund"]
+          - ["doente", "sick", "Adjective - Health"]
+
+  - title: "Ter"
+    explanation: |
+      **Ter** means **to have** and expresses:
+      - Possession
+      - Relationships
+      - Obligations (ter que = to have to)
+      - Age (tenho 25 anos = I am 25 years old)
+
+      **Present tense conjugation**:
+      - eu tenho (I have)
+      - tu tens (you have)
+      - ele/ela/você tem (he/she has, you have)
+      - nós temos (we have)
+      - vós tendes (you have - plural)
+      - eles/elas têm (they have)
+      - **Gerúndio**: tendo (having)
+    examples:
+      - q: "Eu tenho um carro."
+        a: "I have a car."
+        labels: ["Present", "1st Person Singular"]
+        rel:
+          - ["tenho", "have", "ter - I have"]
+          - ["um carro", "a car", "Noun - Vehicle"]
+
+      - q: "Tu tens razão."
+        a: "You are right."
+        labels: ["Present", "2nd Person Singular"]
+        rel:
+          - ["tens", "have", "ter - you have"]
+          - ["razão", "right/reason", "Noun - Expression"]
+
+      - q: "Ela tem dois irmãos."
+        a: "She has two brothers."
+        labels: ["Present", "3rd Person Singular"]
+        rel:
+          - ["tem", "has", "ter - he/she/it has"]
+          - ["dois", "two", "Number"]
+          - ["irmãos", "brothers", "Noun - Family"]
+
+      - q: "Nós temos fome."
+        a: "We are hungry."
+        labels: ["Present", "1st Person Plural"]
+        rel:
+          - ["temos", "have", "ter - we have"]
+          - ["fome", "hunger", "Noun - Need"]
+
+      - q: "Vós tendes tempo."
+        a: "You have time."
+        labels: ["Present", "2nd Person Plural"]
+        rel:
+          - ["tendes", "have", "ter - you have"]
+          - ["tempo", "time", "Noun"]
+
+      - q: "Eles têm uma casa grande."
+        a: "They have a big house."
+        labels: ["Present", "3rd Person Plural"]
+        rel:
+          - ["têm", "have", "ter - they have"]
+          - ["uma casa", "a house", "Noun - Housing"]
+          - ["grande", "big", "Adjective"]
+
+      - q: "Tendo dinheiro, posso viajar."
+        a: "Having money, I can travel."
+        labels: ["Gerúndio"]
+        rel:
+          - ["tendo", "having", "ter - Gerund"]
+          - ["dinheiro", "money", "Noun"]
+          - ["viajar", "to travel", "Verb - Infinitive"]
+
+  - title: "Ser vs Estar"
+    explanation: |
+      **Important difference**:
+      - **Ser**: permanent, unchanging, essence
+      - **Estar**: temporary, changeable, state
+
+      Examples of the difference:
+      - Ser alto = to be tall (trait)
+      - Estar alto = to be high (position)
+      - Ser feliz = to be happy (character)
+      - Estar feliz = to be happy (momentary feeling)
+    examples:
+      - q: "O café é quente."
+        a: "Coffee is (generally) hot."
+        labels: ["Ser", "Trait"]
+        rel:
+          - ["é", "is", "ser - trait"]
+          - ["café", "coffee", "Noun - Drink"]
+          - ["quente", "hot", "Adjective"]
+
+      - q: "O café está quente."
+        a: "The coffee is (right now) hot."
+        labels: ["Estar", "State"]
+        rel:
+          - ["está", "is", "estar - temporary state"]
+
+      - q: "Ela é bonita."
+        a: "She is (by nature) beautiful."
+        labels: ["Ser", "Trait"]
+        rel:
+          - ["é", "is", "ser - permanent"]
+          - ["bonita", "beautiful", "Adjective"]
+
+      - q: "Ela está bonita hoje."
+        a: "She looks beautiful today."
+        labels: ["Estar", "State"]
+        rel:
+          - ["está", "is", "estar - today"]
+
+      - q: "Eu sou de Portugal."
+        a: "I am (come) from Portugal."
+        labels: ["Ser", "Origin"]
+        rel:
+          - ["sou", "am", "ser - origin"]
+          - ["de Portugal", "from Portugal", "Location"]
+
+      - q: "Eu estou em Portugal."
+        a: "I am (currently) in Portugal."
+        labels: ["Estar", "Location"]
+        rel:
+          - ["estou", "am", "estar - current location"]
+          - ["em Portugal", "in Portugal", "Location"]

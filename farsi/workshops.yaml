@@ -1,0 +1,10 @@
+workshops:
+  - folder: portuguese
+    code: pt-PT
+    title: "پرتغالی"
+    description: "۱۰ درس درباره ۳۰ فعل مهم پرتغالی و صرف آن‌ها."
+    color: "30 50% 95%"
+    primaryColor: "25 80% 50%"
+    image: "portugiesisch/thumbnail.svg"
+    coach:
+      email: "open-learn@felixboehm.it"

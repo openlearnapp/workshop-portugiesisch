@@ -1,0 +1,232 @@
+number: 9
+title: "Arriving and Obligation - To Arrive, To Pass, To Must"
+description: "The verbs chegar, passar and dever with all conjugations"
+sections:
+  - title: "Chegar"
+    explanation: |
+      **Chegar** means **to arrive/to reach**:
+      - Arriving, getting there
+      - Reaching, being enough
+      - Chegar a = to get to...
+
+      **Present tense conjugation**:
+      - eu chego (I arrive)
+      - tu chegas (you arrive)
+      - ele/ela/você chega (he/she arrives)
+      - nós chegamos (we arrive)
+      - vós chegais (you arrive - plural)
+      - eles/elas chegam (they arrive)
+      - **Gerúndio**: chegando (arriving)
+    examples:
+      - q: "Eu chego às sete."
+        a: "I arrive at seven."
+        labels: ["Present", "1st Person Singular"]
+        rel:
+          - ["chego", "arrive", "chegar - I arrive"]
+          - ["às sete", "at seven", "Time"]
+
+      - q: "Tu chegas tarde."
+        a: "You arrive late."
+        labels: ["Present", "2nd Person Singular"]
+        rel:
+          - ["chegas", "arrive", "chegar - you arrive"]
+          - ["tarde", "late", "Time"]
+
+      - q: "Ele chega amanhã."
+        a: "He arrives tomorrow."
+        labels: ["Present", "3rd Person Singular"]
+        rel:
+          - ["chega", "arrives", "chegar - he/she arrives"]
+          - ["amanhã", "tomorrow", "Time"]
+
+      - q: "Nós chegamos a Lisboa."
+        a: "We arrive in Lisbon."
+        labels: ["Present", "1st Person Plural"]
+        rel:
+          - ["chegamos", "arrive", "chegar - we arrive"]
+          - ["Lisboa", "Lisbon", "City"]
+
+      - q: "Vós chegais cedo?"
+        a: "Do you arrive early?"
+        labels: ["Present", "2nd Person Plural", "Question"]
+        rel:
+          - ["chegais", "arrive", "chegar - you arrive"]
+          - ["cedo", "early", "Time"]
+
+      - q: "Eles chegam de avião."
+        a: "They arrive by plane."
+        labels: ["Present", "3rd Person Plural"]
+        rel:
+          - ["chegam", "arrive", "chegar - they arrive"]
+          - ["avião", "plane", "Noun - Transport"]
+
+      - q: "Chegando lá, telefono-te."
+        a: "When I get there, I'll call you."
+        labels: ["Gerúndio"]
+        rel:
+          - ["chegando", "arriving", "chegar - Gerund"]
+          - ["lá", "there", "Location"]
+
+  - title: "Passar"
+    explanation: |
+      **Passar** has many meanings:
+      - Passing by, going past
+      - Spending (time)
+      - Passing (an exam)
+      - Ironing (clothes)
+
+      **Present tense conjugation**:
+      - eu passo (I pass)
+      - tu passas (you pass)
+      - ele/ela/você passa (he/she passes)
+      - nós passamos (we pass)
+      - vós passais (you pass - plural)
+      - eles/elas passam (they pass)
+      - **Gerúndio**: passando (passing)
+    examples:
+      - q: "Eu passo pela escola."
+        a: "I pass by the school."
+        labels: ["Present", "1st Person Singular"]
+        rel:
+          - ["passo", "pass by", "passar - I pass"]
+          - ["escola", "school", "Noun"]
+
+      - q: "Tu passas férias aqui?"
+        a: "Do you spend your holidays here?"
+        labels: ["Present", "2nd Person Singular", "Question"]
+        rel:
+          - ["passas", "spend", "passar - you spend"]
+          - ["férias", "holidays", "Noun"]
+
+      - q: "Ela passa no exame."
+        a: "She passes the exam."
+        labels: ["Present", "3rd Person Singular"]
+        rel:
+          - ["passa", "passes", "passar - he/she passes"]
+          - ["exame", "exam", "Noun"]
+
+      - q: "Nós passamos bem."
+        a: "We are doing well."
+        labels: ["Present", "1st Person Plural"]
+        rel:
+          - ["passamos bem", "are doing well", "Expression"]
+          - ["bem", "well", "Adverb"]
+
+      - q: "Vós passais por aqui?"
+        a: "Do you pass by here?"
+        labels: ["Present", "2nd Person Plural", "Question"]
+        rel:
+          - ["passais", "pass by", "passar - you pass"]
+          - ["por aqui", "by here", "Location"]
+
+      - q: "Eles passam o fim de semana fora."
+        a: "They spend the weekend away."
+        labels: ["Present", "3rd Person Plural"]
+        rel:
+          - ["passam", "spend", "passar - they spend"]
+          - ["fim de semana", "weekend", "Time"]
+          - ["fora", "away", "Location"]
+
+      - q: "Passando mal, vou ao médico."
+        a: "If I'm not feeling well, I go to the doctor."
+        labels: ["Gerúndio"]
+        rel:
+          - ["passando", "passing", "passar - Gerund"]
+          - ["mal", "badly", "Adverb"]
+
+  - title: "Dever"
+    explanation: |
+      **Dever** means **must/should** or **to owe**:
+      - Obligation, duty (must)
+      - Owing money
+      - Probability (deve ser = it must be)
+
+      **Present tense conjugation**:
+      - eu devo (I must/owe)
+      - tu deves (you must/owe)
+      - ele/ela/você deve (he/she must/owes)
+      - nós devemos (we must/owe)
+      - vós deveis (you must/owe - plural)
+      - eles/elas devem (they must/owe)
+      - **Gerúndio**: devendo (owing)
+    examples:
+      - q: "Eu devo estudar."
+        a: "I must study."
+        labels: ["Present", "1st Person Singular"]
+        rel:
+          - ["devo", "must", "dever - I must"]
+          - ["estudar", "to study", "Verb"]
+
+      - q: "Tu deves dinheiro?"
+        a: "Do you owe money?"
+        labels: ["Present", "2nd Person Singular", "Question"]
+        rel:
+          - ["deves", "owe", "dever - you owe"]
+          - ["dinheiro", "money", "Noun"]
+
+      - q: "Ele deve trabalhar."
+        a: "He must work."
+        labels: ["Present", "3rd Person Singular"]
+        rel:
+          - ["deve", "must", "dever - he/she must"]
+          - ["trabalhar", "to work", "Verb"]
+
+      - q: "Nós devemos ir."
+        a: "We must go."
+        labels: ["Present", "1st Person Plural"]
+        rel:
+          - ["devemos", "must", "dever - we must"]
+          - ["ir", "to go", "Verb"]
+
+      - q: "Vós deveis respeito."
+        a: "You owe respect."
+        labels: ["Present", "2nd Person Plural"]
+        rel:
+          - ["deveis", "owe", "dever - you owe"]
+          - ["respeito", "respect", "Noun"]
+
+      - q: "Eles devem chegar cedo."
+        a: "They must arrive early."
+        labels: ["Present", "3rd Person Plural"]
+        rel:
+          - ["devem", "must", "dever - they must"]
+          - ["cedo", "early", "Time"]
+
+      - q: "Devendo muito, pago aos poucos."
+        a: "Owing a lot, I pay little by little."
+        labels: ["Gerúndio"]
+        rel:
+          - ["devendo", "owing", "dever - Gerund"]
+          - ["aos poucos", "little by little", "Expression"]
+
+  - title: "Time Expressions"
+    explanation: |
+      **Useful expressions**:
+      - Chegar a tempo = to arrive on time
+      - Passar o tempo = to spend time
+      - Não chega = it's not enough
+      - Que se passa? = What's going on?
+    examples:
+      - q: "Chego sempre a tempo."
+        a: "I always arrive on time."
+        labels: ["Expression"]
+        rel:
+          - ["a tempo", "on time", "Time"]
+
+      - q: "O dinheiro não chega."
+        a: "The money is not enough."
+        labels: ["Expression"]
+        rel:
+          - ["não chega", "is not enough", "Idiom"]
+
+      - q: "Como passa o tempo!"
+        a: "How time flies!"
+        labels: ["Expression"]
+        rel:
+          - ["passa o tempo", "time flies", "Expression"]
+
+      - q: "O que se passa aqui?"
+        a: "What's going on here?"
+        labels: ["Expression", "Question"]
+        rel:
+          - ["que se passa", "what's going on", "Idiom"]

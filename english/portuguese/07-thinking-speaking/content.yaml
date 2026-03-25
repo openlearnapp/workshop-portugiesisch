@@ -1,0 +1,239 @@
+number: 7
+title: "Thinking and Speaking - To Think, To Speak, To Hear"
+description: "The verbs pensar, falar and ouvir with all conjugations"
+sections:
+  - title: "Pensar"
+    explanation: |
+      **Pensar** means **to think**:
+      - Thinking, pondering
+      - Believing (penso que = I think that)
+      - Thinking about something (pensar em)
+
+      **Present tense conjugation**:
+      - eu penso (I think)
+      - tu pensas (you think)
+      - ele/ela/você pensa (he/she thinks)
+      - nós pensamos (we think)
+      - vós pensais (you think - plural)
+      - eles/elas pensam (they think)
+      - **Gerúndio**: pensando (thinking)
+    examples:
+      - q: "Eu penso muito."
+        a: "I think a lot."
+        labels: ["Present", "1st Person Singular"]
+        rel:
+          - ["penso", "think", "pensar - I think"]
+          - ["muito", "a lot", "Adverb"]
+
+      - q: "Tu pensas em mim?"
+        a: "Do you think about me?"
+        labels: ["Present", "2nd Person Singular", "Question"]
+        rel:
+          - ["pensas", "think", "pensar - you think"]
+          - ["em mim", "about me", "Preposition + Pronoun"]
+
+      - q: "Ele pensa que é fácil."
+        a: "He thinks it is easy."
+        labels: ["Present", "3rd Person Singular"]
+        rel:
+          - ["pensa", "thinks", "pensar - he/she thinks"]
+          - ["fácil", "easy", "Adjective"]
+
+      - q: "Nós pensamos no futuro."
+        a: "We think about the future."
+        labels: ["Present", "1st Person Plural"]
+        rel:
+          - ["pensamos", "think", "pensar - we think"]
+          - ["futuro", "future", "Noun"]
+
+      - q: "Vós pensais bem?"
+        a: "Do you think carefully?"
+        labels: ["Present", "2nd Person Plural", "Question"]
+        rel:
+          - ["pensais", "think", "pensar - you think"]
+          - ["bem", "well", "Adverb"]
+
+      - q: "Eles pensam o mesmo."
+        a: "They think the same."
+        labels: ["Present", "3rd Person Plural"]
+        rel:
+          - ["pensam", "think", "pensar - they think"]
+          - ["mesmo", "the same", "Pronoun"]
+
+      - q: "Pensando nisso, mudo de ideia."
+        a: "Thinking about it, I change my mind."
+        labels: ["Gerúndio"]
+        rel:
+          - ["pensando", "thinking", "pensar - Gerund"]
+          - ["nisso", "about it", "Pronoun"]
+          - ["ideia", "mind/idea", "Noun"]
+
+  - title: "Falar"
+    explanation: |
+      **Falar** means **to speak/to talk**:
+      - Speaking, talking
+      - Speaking a language
+      - Talking about something (falar de/sobre)
+
+      **Present tense conjugation**:
+      - eu falo (I speak)
+      - tu falas (you speak)
+      - ele/ela/você fala (he/she speaks)
+      - nós falamos (we speak)
+      - vós falais (you speak - plural)
+      - eles/elas falam (they speak)
+      - **Gerúndio**: falando (speaking)
+    examples:
+      - q: "Eu falo português."
+        a: "I speak Portuguese."
+        labels: ["Present", "1st Person Singular"]
+        rel:
+          - ["falo", "speak", "falar - I speak"]
+          - ["português", "Portuguese", "Language"]
+
+      - q: "Tu falas muito alto."
+        a: "You speak very loudly."
+        labels: ["Present", "2nd Person Singular"]
+        rel:
+          - ["falas", "speak", "falar - you speak"]
+          - ["alto", "loudly", "Adverb"]
+
+      - q: "Ela fala com o chefe."
+        a: "She speaks with the boss."
+        labels: ["Present", "3rd Person Singular"]
+        rel:
+          - ["fala", "speaks", "falar - he/she speaks"]
+          - ["chefe", "boss", "Noun - Profession"]
+
+      - q: "Nós falamos sobre política."
+        a: "We talk about politics."
+        labels: ["Present", "1st Person Plural"]
+        rel:
+          - ["falamos", "talk", "falar - we speak"]
+          - ["sobre", "about", "Preposition"]
+          - ["política", "politics", "Noun"]
+
+      - q: "Vós falais a verdade?"
+        a: "Do you speak the truth?"
+        labels: ["Present", "2nd Person Plural", "Question"]
+        rel:
+          - ["falais", "speak", "falar - you speak"]
+          - ["verdade", "truth", "Noun"]
+
+      - q: "Eles falam inglês bem."
+        a: "They speak English well."
+        labels: ["Present", "3rd Person Plural"]
+        rel:
+          - ["falam", "speak", "falar - they speak"]
+          - ["inglês", "English", "Language"]
+
+      - q: "Falando assim, ofendes as pessoas."
+        a: "Speaking like that, you offend people."
+        labels: ["Gerúndio"]
+        rel:
+          - ["falando", "speaking", "falar - Gerund"]
+          - ["assim", "like that", "Adverb"]
+          - ["pessoas", "people", "Noun"]
+
+  - title: "Ouvir"
+    explanation: |
+      **Ouvir** means **to hear**:
+      - Hearing, listening
+      - Listening to someone
+      - Listening to music
+
+      **Present tense conjugation**:
+      - eu ouço (I hear)
+      - tu ouves (you hear)
+      - ele/ela/você ouve (he/she hears)
+      - nós ouvimos (we hear)
+      - vós ouvis (you hear - plural)
+      - eles/elas ouvem (they hear)
+      - **Gerúndio**: ouvindo (hearing)
+    examples:
+      - q: "Eu ouço música."
+        a: "I listen to music."
+        labels: ["Present", "1st Person Singular"]
+        rel:
+          - ["ouço", "listen", "ouvir - I hear"]
+          - ["música", "music", "Noun"]
+
+      - q: "Tu ouves um barulho?"
+        a: "Do you hear a noise?"
+        labels: ["Present", "2nd Person Singular", "Question"]
+        rel:
+          - ["ouves", "hear", "ouvir - you hear"]
+          - ["barulho", "noise", "Noun"]
+
+      - q: "Ela ouve a rádio."
+        a: "She listens to the radio."
+        labels: ["Present", "3rd Person Singular"]
+        rel:
+          - ["ouve", "listens", "ouvir - he/she hears"]
+          - ["rádio", "radio", "Noun"]
+
+      - q: "Nós ouvimos a notícia."
+        a: "We hear the news."
+        labels: ["Present", "1st Person Plural"]
+        rel:
+          - ["ouvimos", "hear", "ouvir - we hear"]
+          - ["notícia", "news", "Noun"]
+
+      - q: "Vós ouvis os pássaros?"
+        a: "Do you hear the birds?"
+        labels: ["Present", "2nd Person Plural", "Question"]
+        rel:
+          - ["ouvis", "hear", "ouvir - you hear"]
+          - ["pássaros", "birds", "Noun - Animal"]
+
+      - q: "Eles ouvem conselhos."
+        a: "They listen to advice."
+        labels: ["Present", "3rd Person Plural"]
+        rel:
+          - ["ouvem", "listen", "ouvir - they hear"]
+          - ["conselhos", "advice", "Noun"]
+
+      - q: "Ouvindo isso, fico triste."
+        a: "Hearing that, I become sad."
+        labels: ["Gerúndio"]
+        rel:
+          - ["ouvindo", "hearing", "ouvir - Gerund"]
+          - ["isso", "that", "Pronoun"]
+          - ["triste", "sad", "Adjective"]
+
+  - title: "Communication Expressions"
+    explanation: |
+      **Common expressions**:
+      - Falar mal de = to speak badly of someone
+      - Falar sério = to be serious
+      - Ouvir falar de = to hear about something
+      - Pensar bem = to think carefully
+    examples:
+      - q: "Não fales mal dos outros."
+        a: "Don't speak badly of others."
+        labels: ["Imperative", "Expression"]
+        rel:
+          - ["falar mal", "to speak badly", "Expression"]
+          - ["outros", "others", "Pronoun"]
+
+      - q: "Estou a falar a sério."
+        a: "I am being serious."
+        labels: ["Expression"]
+        rel:
+          - ["falar a sério", "to be serious", "Idiom"]
+          - ["a sério", "seriously", "Expression"]
+
+      - q: "Ouvi falar desse restaurante."
+        a: "I've heard about that restaurant."
+        labels: ["Expression"]
+        rel:
+          - ["ouvir falar de", "to hear about", "Idiom"]
+          - ["restaurante", "restaurant", "Noun"]
+
+      - q: "Pensa bem antes de decidir."
+        a: "Think carefully before deciding."
+        labels: ["Expression", "Advice"]
+        rel:
+          - ["pensar bem", "to think carefully", "Expression"]
+          - ["antes de", "before", "Conjunction"]
+          - ["decidir", "to decide", "Verb"]

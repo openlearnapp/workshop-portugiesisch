@@ -1,0 +1,249 @@
+number: 5
+title: "Wishes and Preferences - To Want, To Stay, To Like"
+description: "The verbs querer, ficar and gostar with all conjugations"
+sections:
+  - title: "Querer"
+    explanation: |
+      **Querer** means **to want/to wish**:
+      - Expressing wishes
+      - Wanting, desiring something
+      - Often with infinitive (quero comer = I want to eat)
+
+      **Present tense conjugation**:
+      - eu quero (I want)
+      - tu queres (you want)
+      - ele/ela/você quer (he/she wants)
+      - nós queremos (we want)
+      - vós quereis (you want - plural)
+      - eles/elas querem (they want)
+      - **Gerúndio**: querendo (wanting)
+    examples:
+      - q: "Eu quero café."
+        a: "I want coffee."
+        labels: ["Present", "1st Person Singular"]
+        rel:
+          - ["quero", "want", "querer - I want"]
+          - ["café", "coffee", "Noun - Drink"]
+
+      - q: "Tu queres ir ao cinema?"
+        a: "Do you want to go to the cinema?"
+        labels: ["Present", "2nd Person Singular", "Question"]
+        rel:
+          - ["queres", "want", "querer - you want"]
+          - ["ir", "to go", "Verb"]
+          - ["cinema", "cinema", "Noun"]
+
+      - q: "Ele quer aprender português."
+        a: "He wants to learn Portuguese."
+        labels: ["Present", "3rd Person Singular"]
+        rel:
+          - ["quer", "wants", "querer - he/she wants"]
+          - ["aprender", "to learn", "Verb"]
+          - ["português", "Portuguese", "Language"]
+
+      - q: "Nós queremos ajudar."
+        a: "We want to help."
+        labels: ["Present", "1st Person Plural"]
+        rel:
+          - ["queremos", "want", "querer - we want"]
+          - ["ajudar", "to help", "Verb"]
+
+      - q: "Vós quereis comer alguma coisa?"
+        a: "Do you want to eat something?"
+        labels: ["Present", "2nd Person Plural", "Question"]
+        rel:
+          - ["quereis", "want", "querer - you want"]
+          - ["comer", "to eat", "Verb"]
+          - ["alguma coisa", "something", "Expression"]
+
+      - q: "Eles querem paz."
+        a: "They want peace."
+        labels: ["Present", "3rd Person Plural"]
+        rel:
+          - ["querem", "want", "querer - they want"]
+          - ["paz", "peace", "Noun"]
+
+      - q: "Querendo ou não, tens que ir."
+        a: "Whether you want to or not, you have to go."
+        labels: ["Gerúndio"]
+        rel:
+          - ["querendo", "wanting", "querer - Gerund"]
+          - ["ou não", "or not", "Expression"]
+
+  - title: "Ficar"
+    explanation: |
+      **Ficar** has several meanings:
+      - To stay (at a place)
+      - To become (change of state)
+      - To be located
+      - To suit (ficar bem)
+
+      **Present tense conjugation**:
+      - eu fico (I stay)
+      - tu ficas (you stay)
+      - ele/ela/você fica (he/she stays)
+      - nós ficamos (we stay)
+      - vós ficais (you stay - plural)
+      - eles/elas ficam (they stay)
+      - **Gerúndio**: ficando (staying)
+    examples:
+      - q: "Eu fico em casa."
+        a: "I stay at home."
+        labels: ["Present", "1st Person Singular"]
+        rel:
+          - ["fico", "stay", "ficar - I stay"]
+          - ["em casa", "at home", "Location"]
+
+      - q: "Tu ficas contente com isso?"
+        a: "Are you happy with that?"
+        labels: ["Present", "2nd Person Singular"]
+        rel:
+          - ["ficas", "become", "ficar - you become"]
+          - ["contente", "happy", "Adjective"]
+          - ["com isso", "with that", "Expression"]
+
+      - q: "Ela fica no hotel."
+        a: "She stays at the hotel."
+        labels: ["Present", "3rd Person Singular"]
+        rel:
+          - ["fica", "stays", "ficar - he/she stays"]
+          - ["hotel", "hotel", "Noun - Accommodation"]
+
+      - q: "Nós ficamos aqui."
+        a: "We stay here."
+        labels: ["Present", "1st Person Plural"]
+        rel:
+          - ["ficamos", "stay", "ficar - we stay"]
+          - ["aqui", "here", "Location"]
+
+      - q: "Vós ficais bem com essas roupas."
+        a: "Those clothes look good on you."
+        labels: ["Present", "2nd Person Plural"]
+        rel:
+          - ["ficais", "suit", "ficar - you look/suit"]
+          - ["bem", "well", "Adverb"]
+          - ["roupas", "clothes", "Noun"]
+
+      - q: "Eles ficam nervosos."
+        a: "They become nervous."
+        labels: ["Present", "3rd Person Plural"]
+        rel:
+          - ["ficam", "become", "ficar - they become"]
+          - ["nervosos", "nervous", "Adjective"]
+
+      - q: "Ficando tarde, vou embora."
+        a: "As it gets late, I leave."
+        labels: ["Gerúndio"]
+        rel:
+          - ["ficando", "getting", "ficar - Gerund"]
+          - ["tarde", "late", "Time"]
+          - ["vou embora", "I leave", "Expression"]
+
+  - title: "Gostar"
+    explanation: |
+      **Gostar** means **to like**:
+      - Expressing preferences
+      - **Always with "de"** (gostar de)
+      - Taste, preference
+
+      **Present tense conjugation**:
+      - eu gosto (I like)
+      - tu gostas (you like)
+      - ele/ela/você gosta (he/she likes)
+      - nós gostamos (we like)
+      - vós gostais (you like - plural)
+      - eles/elas gostam (they like)
+      - **Gerúndio**: gostando (liking)
+    examples:
+      - q: "Eu gosto de música."
+        a: "I like music."
+        labels: ["Present", "1st Person Singular"]
+        rel:
+          - ["gosto de", "like", "gostar - I like"]
+          - ["música", "music", "Noun"]
+
+      - q: "Tu gostas de ler?"
+        a: "Do you like to read?"
+        labels: ["Present", "2nd Person Singular", "Question"]
+        rel:
+          - ["gostas de", "like", "gostar - you like"]
+          - ["ler", "to read", "Verb"]
+
+      - q: "Ela gosta de viajar."
+        a: "She likes to travel."
+        labels: ["Present", "3rd Person Singular"]
+        rel:
+          - ["gosta de", "likes", "gostar - he/she likes"]
+          - ["viajar", "to travel", "Verb"]
+
+      - q: "Nós gostamos de ti."
+        a: "We like you."
+        labels: ["Present", "1st Person Plural"]
+        rel:
+          - ["gostamos de", "like", "gostar - we like"]
+          - ["ti", "you", "Pronoun"]
+
+      - q: "Vós gostais de chocolate?"
+        a: "Do you like chocolate?"
+        labels: ["Present", "2nd Person Plural", "Question"]
+        rel:
+          - ["gostais de", "like", "gostar - you like"]
+          - ["chocolate", "chocolate", "Noun - Food"]
+
+      - q: "Eles gostam de futebol."
+        a: "They like football."
+        labels: ["Present", "3rd Person Plural"]
+        rel:
+          - ["gostam de", "like", "gostar - they like"]
+          - ["futebol", "football", "Noun - Sport"]
+
+      - q: "Gostando do lugar, fico mais tempo."
+        a: "If I like the place, I stay longer."
+        labels: ["Gerúndio"]
+        rel:
+          - ["gostando de", "liking", "gostar - Gerund"]
+          - ["lugar", "place", "Noun"]
+          - ["mais tempo", "longer", "Time"]
+
+  - title: "Expressions with Querer and Gostar"
+    explanation: |
+      **Common expressions**:
+      - Querer dizer = to mean (What does it mean?)
+      - Querer bem = to be fond of someone
+      - Gostar muito = to like a lot
+      - Não gostar nada = to not like at all
+    examples:
+      - q: "O que quer dizer?"
+        a: "What does it mean?"
+        labels: ["Expression", "Question"]
+        rel:
+          - ["quer dizer", "means", "Idiom"]
+          - ["o que", "what", "Question word"]
+
+      - q: "Eu quero-te bem."
+        a: "I am fond of you."
+        labels: ["Expression"]
+        rel:
+          - ["quero-te bem", "am fond of you", "Idiom"]
+
+      - q: "Gosto muito de ti."
+        a: "I like you a lot."
+        labels: ["Expression"]
+        rel:
+          - ["gosto muito", "like a lot", "Intensifier"]
+          - ["muito", "a lot", "Adverb"]
+
+      - q: "Não gosto nada disso."
+        a: "I don't like that at all."
+        labels: ["Expression", "Negation"]
+        rel:
+          - ["não gosto nada", "don't like at all", "Negation"]
+          - ["nada", "nothing/at all", "Adverb"]
+          - ["disso", "of that", "Pronoun"]
+
+      - q: "Queres alguma coisa?"
+        a: "Do you want something?"
+        labels: ["Politeness", "Question"]
+        rel:
+          - ["queres", "want", "querer - offer"]
+          - ["alguma coisa", "something", "Expression"]

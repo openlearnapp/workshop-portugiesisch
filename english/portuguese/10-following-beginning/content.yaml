@@ -1,0 +1,235 @@
+number: 10
+title: "Following and Beginning - To Follow, To Start, To Seem"
+description: "The verbs seguir, começar and parecer with all conjugations"
+sections:
+  - title: "Seguir"
+    explanation: |
+      **Seguir** means **to follow/to continue**:
+      - Following someone
+      - Continuing, carrying on
+      - Following a direction
+
+      **Present tense conjugation**:
+      - eu sigo (I follow)
+      - tu segues (you follow)
+      - ele/ela/você segue (he/she follows)
+      - nós seguimos (we follow)
+      - vós seguis (you follow - plural)
+      - eles/elas seguem (they follow)
+      - **Gerúndio**: seguindo (following)
+    examples:
+      - q: "Eu sigo em frente."
+        a: "I go straight ahead."
+        labels: ["Present", "1st Person Singular"]
+        rel:
+          - ["sigo", "go/follow", "seguir - I follow"]
+          - ["em frente", "straight ahead", "Direction"]
+
+      - q: "Tu segues o mapa?"
+        a: "Do you follow the map?"
+        labels: ["Present", "2nd Person Singular", "Question"]
+        rel:
+          - ["segues", "follow", "seguir - you follow"]
+          - ["mapa", "map", "Noun"]
+
+      - q: "Ela segue as regras."
+        a: "She follows the rules."
+        labels: ["Present", "3rd Person Singular"]
+        rel:
+          - ["segue", "follows", "seguir - he/she follows"]
+          - ["regras", "rules", "Noun"]
+
+      - q: "Nós seguimos o caminho."
+        a: "We follow the path."
+        labels: ["Present", "1st Person Plural"]
+        rel:
+          - ["seguimos", "follow", "seguir - we follow"]
+          - ["caminho", "path", "Noun"]
+
+      - q: "Vós seguis o líder?"
+        a: "Do you follow the leader?"
+        labels: ["Present", "2nd Person Plural", "Question"]
+        rel:
+          - ["seguis", "follow", "seguir - you follow"]
+          - ["líder", "leader", "Noun"]
+
+      - q: "Eles seguem viagem."
+        a: "They continue the journey."
+        labels: ["Present", "3rd Person Plural"]
+        rel:
+          - ["seguem", "continue", "seguir - they follow"]
+          - ["viagem", "journey", "Noun"]
+
+      - q: "Seguindo o rio, chego ao mar."
+        a: "Following the river, I reach the sea."
+        labels: ["Gerúndio"]
+        rel:
+          - ["seguindo", "following", "seguir - Gerund"]
+          - ["rio", "river", "Noun"]
+          - ["mar", "sea", "Noun"]
+
+  - title: "Começar"
+    explanation: |
+      **Começar** means **to start/to begin**:
+      - Starting something, beginning
+      - Getting started
+      - Começar a + Infinitive = to start to...
+
+      **Present tense conjugation**:
+      - eu começo (I start)
+      - tu começas (you start)
+      - ele/ela/você começa (he/she starts)
+      - nós começamos (we start)
+      - vós começais (you start - plural)
+      - eles/elas começam (they start)
+      - **Gerúndio**: começando (starting)
+    examples:
+      - q: "Eu começo agora."
+        a: "I start now."
+        labels: ["Present", "1st Person Singular"]
+        rel:
+          - ["começo", "start", "começar - I start"]
+          - ["agora", "now", "Time"]
+
+      - q: "Tu começas a trabalhar quando?"
+        a: "When do you start working?"
+        labels: ["Present", "2nd Person Singular", "Question"]
+        rel:
+          - ["começas", "start", "começar - you start"]
+          - ["trabalhar", "to work", "Verb"]
+          - ["quando", "when", "Question word"]
+
+      - q: "Ela começa às oito."
+        a: "She starts at eight."
+        labels: ["Present", "3rd Person Singular"]
+        rel:
+          - ["começa", "starts", "começar - he/she starts"]
+          - ["às oito", "at eight", "Time"]
+
+      - q: "Nós começamos o projeto."
+        a: "We start the project."
+        labels: ["Present", "1st Person Plural"]
+        rel:
+          - ["começamos", "start", "começar - we start"]
+          - ["projeto", "project", "Noun"]
+
+      - q: "Vós começais amanhã?"
+        a: "Do you start tomorrow?"
+        labels: ["Present", "2nd Person Plural", "Question"]
+        rel:
+          - ["começais", "start", "começar - you start"]
+          - ["amanhã", "tomorrow", "Time"]
+
+      - q: "Eles começam a aula."
+        a: "They start the class."
+        labels: ["Present", "3rd Person Plural"]
+        rel:
+          - ["começam", "start", "começar - they start"]
+          - ["aula", "class", "Noun"]
+
+      - q: "Começando cedo, acabo cedo."
+        a: "Starting early, I finish early."
+        labels: ["Gerúndio"]
+        rel:
+          - ["começando", "starting", "começar - Gerund"]
+          - ["cedo", "early", "Time"]
+
+  - title: "Parecer"
+    explanation: |
+      **Parecer** means **to seem/to look like**:
+      - Seeming, appearing
+      - Looking like
+      - Parecer que = it seems that
+
+      **Present tense conjugation**:
+      - eu pareço (I seem)
+      - tu pareces (you seem)
+      - ele/ela/você parece (he/she seems)
+      - nós parecemos (we seem)
+      - vós pareceis (you seem - plural)
+      - eles/elas parecem (they seem)
+      - **Gerúndio**: parecendo (seeming)
+    examples:
+      - q: "Eu pareço cansado?"
+        a: "Do I look tired?"
+        labels: ["Present", "1st Person Singular", "Question"]
+        rel:
+          - ["pareço", "look", "parecer - I seem"]
+          - ["cansado", "tired", "Adjective"]
+
+      - q: "Tu pareces feliz."
+        a: "You look happy."
+        labels: ["Present", "2nd Person Singular"]
+        rel:
+          - ["pareces", "look", "parecer - you seem"]
+          - ["feliz", "happy", "Adjective"]
+
+      - q: "Ele parece doente."
+        a: "He looks sick."
+        labels: ["Present", "3rd Person Singular"]
+        rel:
+          - ["parece", "looks", "parecer - he/she seems"]
+          - ["doente", "sick", "Adjective"]
+
+      - q: "Nós parecemos irmãos."
+        a: "We look like siblings."
+        labels: ["Present", "1st Person Plural"]
+        rel:
+          - ["parecemos", "look like", "parecer - we seem"]
+          - ["irmãos", "siblings", "Noun"]
+
+      - q: "Vós pareceis nervosos."
+        a: "You look nervous."
+        labels: ["Present", "2nd Person Plural"]
+        rel:
+          - ["pareceis", "look", "parecer - you seem"]
+          - ["nervosos", "nervous", "Adjective"]
+
+      - q: "Eles parecem turistas."
+        a: "They look like tourists."
+        labels: ["Present", "3rd Person Plural"]
+        rel:
+          - ["parecem", "look like", "parecer - they seem"]
+          - ["turistas", "tourists", "Noun"]
+
+      - q: "Parecendo fácil, é difícil."
+        a: "Although it seems easy, it is difficult."
+        labels: ["Gerúndio"]
+        rel:
+          - ["parecendo", "seeming", "parecer - Gerund"]
+          - ["fácil", "easy", "Adjective"]
+          - ["difícil", "difficult", "Adjective"]
+
+  - title: "Expressions with Parecer"
+    explanation: |
+      **Common expressions**:
+      - Parece que = it seems that
+      - Parece-me que = it seems to me that
+      - Ao que parece = as it seems
+      - Parecer bem/mal = to look good/bad
+    examples:
+      - q: "Parece que vai chover."
+        a: "It looks like it's going to rain."
+        labels: ["Expression"]
+        rel:
+          - ["parece que", "it seems that", "Idiom"]
+          - ["chover", "to rain", "Verb"]
+
+      - q: "Parece-me uma boa ideia."
+        a: "It seems like a good idea to me."
+        labels: ["Expression"]
+        rel:
+          - ["parece-me", "seems to me", "parecer - to me"]
+          - ["ideia", "idea", "Noun"]
+
+      - q: "Ao que parece, está tudo bem."
+        a: "As it seems, everything is fine."
+        labels: ["Expression"]
+        rel:
+          - ["ao que parece", "as it seems", "Idiom"]
+
+      - q: "Isto parece-te bem?"
+        a: "Does this look good to you?"
+        labels: ["Expression", "Question"]
+        rel:
+          - ["parece-te", "seems to you", "parecer - to you"]

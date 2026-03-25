@@ -1,0 +1,252 @@
+number: 2
+title: "Action Verbs - To Go, To Come, To Do"
+description: "The verbs ir, vir and fazer with all conjugations"
+sections:
+  - title: "Ir"
+    explanation: |
+      **Ir** means **to go** and is used for:
+      - Movement to a place
+      - Future plans (ir + Infinitive)
+      - Often with prepositions (a, para, em)
+
+      **Present tense conjugation**:
+      - eu vou (I go)
+      - tu vais (you go)
+      - ele/ela/você vai (he/she goes, you go)
+      - nós vamos (we go)
+      - vós ides (you go - plural)
+      - eles/elas vão (they go)
+      - **Gerúndio**: indo (going)
+    examples:
+      - q: "Eu vou à escola."
+        a: "I go to school."
+        labels: ["Present", "1st Person Singular"]
+        rel:
+          - ["vou", "go", "ir - I go"]
+          - ["à escola", "to school", "Location - Education"]
+
+      - q: "Tu vais ao supermercado?"
+        a: "Are you going to the supermarket?"
+        labels: ["Present", "2nd Person Singular", "Question"]
+        rel:
+          - ["vais", "go", "ir - you go"]
+          - ["ao supermercado", "to the supermarket", "Location - Shopping"]
+
+      - q: "Ele vai para o trabalho."
+        a: "He goes to work."
+        labels: ["Present", "3rd Person Singular"]
+        rel:
+          - ["vai", "goes", "ir - he/she/it goes"]
+          - ["para o trabalho", "to work", "Location - Work"]
+          - ["trabalho", "work", "Noun"]
+
+      - q: "Nós vamos ao cinema."
+        a: "We go to the cinema."
+        labels: ["Present", "1st Person Plural"]
+        rel:
+          - ["vamos", "go", "ir - we go"]
+          - ["ao cinema", "to the cinema", "Location - Entertainment"]
+          - ["cinema", "cinema", "Noun"]
+
+      - q: "Vós ides à praia?"
+        a: "Are you going to the beach?"
+        labels: ["Present", "2nd Person Plural", "Question"]
+        rel:
+          - ["ides", "go", "ir - you go"]
+          - ["à praia", "to the beach", "Location - Leisure"]
+          - ["praia", "beach", "Noun"]
+
+      - q: "Eles vão de autocarro."
+        a: "They go by bus."
+        labels: ["Present", "3rd Person Plural"]
+        rel:
+          - ["vão", "go", "ir - they go"]
+          - ["de autocarro", "by bus", "Transport"]
+          - ["autocarro", "bus", "Noun - Transport"]
+
+      - q: "Indo para casa, vi um amigo."
+        a: "Going home, I saw a friend."
+        labels: ["Gerúndio"]
+        rel:
+          - ["indo", "going", "ir - Gerund"]
+          - ["para casa", "home", "Direction"]
+          - ["vi", "saw", "ver - Past"]
+
+  - title: "Vir"
+    explanation: |
+      **Vir** means **to come** and is used for:
+      - Movement towards the speaker
+      - Origin
+      - Often opposite of "ir"
+
+      **Present tense conjugation**:
+      - eu venho (I come)
+      - tu vens (you come)
+      - ele/ela/você vem (he/she comes, you come)
+      - nós vimos (we come)
+      - vós vindes (you come - plural)
+      - eles/elas vêm (they come)
+      - **Gerúndio**: vindo (coming)
+    examples:
+      - q: "Eu venho de Portugal."
+        a: "I come from Portugal."
+        labels: ["Present", "1st Person Singular"]
+        rel:
+          - ["venho", "come", "vir - I come"]
+          - ["de Portugal", "from Portugal", "Origin"]
+
+      - q: "Tu vens comigo?"
+        a: "Are you coming with me?"
+        labels: ["Present", "2nd Person Singular", "Question"]
+        rel:
+          - ["vens", "come", "vir - you come"]
+          - ["comigo", "with me", "Pronoun"]
+
+      - q: "Ela vem de autocarro."
+        a: "She comes by bus."
+        labels: ["Present", "3rd Person Singular"]
+        rel:
+          - ["vem", "comes", "vir - he/she/it comes"]
+          - ["de autocarro", "by bus", "Transport"]
+
+      - q: "Nós vimos jantar."
+        a: "We come for dinner."
+        labels: ["Present", "1st Person Plural"]
+        rel:
+          - ["vimos", "come", "vir - we come"]
+          - ["jantar", "dinner / to dine", "Noun / Verb"]
+
+      - q: "Vós vindes tarde."
+        a: "You come late."
+        labels: ["Present", "2nd Person Plural"]
+        rel:
+          - ["vindes", "come", "vir - you come"]
+          - ["tarde", "late", "Time"]
+
+      - q: "Eles vêm amanhã."
+        a: "They come tomorrow."
+        labels: ["Present", "3rd Person Plural"]
+        rel:
+          - ["vêm", "come", "vir - they come"]
+          - ["amanhã", "tomorrow", "Time"]
+
+      - q: "Vindo de longe, estou cansado."
+        a: "Coming from far away, I am tired."
+        labels: ["Gerúndio"]
+        rel:
+          - ["vindo", "coming", "vir - Gerund"]
+          - ["de longe", "from far away", "Distance"]
+          - ["cansado", "tired", "Adjective"]
+
+  - title: "Fazer"
+    explanation: |
+      **Fazer** means **to do/to make** and is used for:
+      - Performing activities
+      - Making something
+      - Weather (faz calor = it is warm)
+      - Time (faz dois dias = two days ago)
+
+      **Present tense conjugation**:
+      - eu faço (I do/make)
+      - tu fazes (you do/make)
+      - ele/ela/você faz (he/she does/makes, you do/make)
+      - nós fazemos (we do/make)
+      - vós fazeis (you do/make - plural)
+      - eles/elas fazem (they do/make)
+      - **Gerúndio**: fazendo (doing/making)
+    examples:
+      - q: "Eu faço o pequeno-almoço."
+        a: "I make breakfast."
+        labels: ["Present", "1st Person Singular"]
+        rel:
+          - ["faço", "make", "fazer - I make"]
+          - ["o pequeno-almoço", "breakfast", "Noun - Meal"]
+
+      - q: "Tu fazes exercício?"
+        a: "Do you exercise?"
+        labels: ["Present", "2nd Person Singular", "Question"]
+        rel:
+          - ["fazes", "do", "fazer - you do"]
+          - ["exercício", "exercise / sport", "Noun - Activity"]
+
+      - q: "Ele faz anos amanhã."
+        a: "It's his birthday tomorrow."
+        labels: ["Present", "3rd Person Singular"]
+        rel:
+          - ["faz", "makes", "fazer - he/she/it does"]
+          - ["anos", "birthday (years)", "Noun"]
+
+      - q: "Nós fazemos o trabalho de casa."
+        a: "We do the homework."
+        labels: ["Present", "1st Person Plural"]
+        rel:
+          - ["fazemos", "do", "fazer - we do"]
+          - ["trabalho de casa", "homework", "Noun - School"]
+
+      - q: "Vós fazeis bem."
+        a: "You do it well."
+        labels: ["Present", "2nd Person Plural"]
+        rel:
+          - ["fazeis", "do", "fazer - you do"]
+          - ["bem", "well", "Adverb"]
+
+      - q: "Eles fazem um bolo."
+        a: "They make a cake."
+        labels: ["Present", "3rd Person Plural"]
+        rel:
+          - ["fazem", "make", "fazer - they make"]
+          - ["um bolo", "a cake", "Noun - Food"]
+          - ["bolo", "cake", "Noun"]
+
+      - q: "Fazendo o meu melhor, consigo."
+        a: "Doing my best, I manage."
+        labels: ["Gerúndio"]
+        rel:
+          - ["fazendo", "doing", "fazer - Gerund"]
+          - ["o meu melhor", "my best", "Expression"]
+
+  - title: "Ir + Infinitive - Near Future"
+    explanation: |
+      **Ir + Infinitive** expresses the **near future**:
+      - Plans and intentions
+      - What one is about to do
+      - Similar to English "going to..."
+
+      Example: Vou estudar = I am going to study
+    examples:
+      - q: "Eu vou fazer o jantar."
+        a: "I am going to make dinner."
+        labels: ["Future", "ir + Infinitive"]
+        rel:
+          - ["vou fazer", "am going to make", "Future"]
+          - ["jantar", "dinner", "Noun - Meal"]
+
+      - q: "Tu vais vir à festa?"
+        a: "Are you going to come to the party?"
+        labels: ["Future", "Question"]
+        rel:
+          - ["vais vir", "are going to come", "Future"]
+          - ["à festa", "to the party", "Location - Event"]
+          - ["festa", "party / celebration", "Noun"]
+
+      - q: "Ela vai ir ao médico."
+        a: "She is going to go to the doctor."
+        labels: ["Future"]
+        rel:
+          - ["vai ir", "is going to go", "Future"]
+          - ["ao médico", "to the doctor", "Location - Health"]
+          - ["médico", "doctor", "Noun - Profession"]
+
+      - q: "Nós vamos fazer uma viagem."
+        a: "We are going to take a trip."
+        labels: ["Future"]
+        rel:
+          - ["vamos fazer", "are going to take", "Future"]
+          - ["uma viagem", "a trip", "Noun - Activity"]
+          - ["viagem", "trip", "Noun"]
+
+      - q: "Eles vão vir amanhã."
+        a: "They are going to come tomorrow."
+        labels: ["Future"]
+        rel:
+          - ["vão vir", "are going to come", "Future"]

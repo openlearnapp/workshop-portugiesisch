@@ -1,0 +1,214 @@
+number: 10
+title: "دنبال کردن و شروع کردن - دنبال کردن، شروع کردن، به نظر رسیدن"
+description: "افعال seguir، começar و parecer با تمام صرف‌ها"
+sections:
+  - title: "Seguir"
+    explanation: |
+      **Seguir** به معنی **دنبال کردن/ادامه دادن** است:
+      - دنبال کردن کسی
+      - ادامه دادن
+      - دنبال کردن یک مسیر
+
+      **صرف زمان حال**:
+      - eu sigo (من دنبال می‌کنم)
+      - tu segues (تو دنبال می‌کنی)
+      - ele/ela/você segue (او دنبال می‌کند)
+      - nós seguimos (ما دنبال می‌کنیم)
+      - vós seguis (شما دنبال می‌کنید)
+      - eles/elas seguem (آن‌ها دنبال می‌کنند)
+      - **Gerúndio**: seguindo (دنبال کردن)
+    examples:
+      - q: "Eu sigo em frente."
+        a: "من مستقیم می‌روم."
+        labels: ["حال", "اول شخص مفرد"]
+        rel:
+          - ["sigo", "می‌روم/دنبال می‌کنم", "seguir - من دنبال می‌کنم"]
+          - ["em frente", "مستقیم", "جهت"]
+      - q: "Tu segues o mapa?"
+        a: "آیا نقشه را دنبال می‌کنی؟"
+        labels: ["حال", "دوم شخص مفرد", "سوال"]
+        rel:
+          - ["segues", "دنبال می‌کنی", "seguir - تو دنبال می‌کنی"]
+          - ["mapa", "نقشه", "اسم"]
+      - q: "Ela segue as regras."
+        a: "او قوانین را رعایت می‌کند."
+        labels: ["حال", "سوم شخص مفرد"]
+        rel:
+          - ["segue", "رعایت می‌کند", "seguir - او دنبال می‌کند"]
+          - ["regras", "قوانین", "اسم"]
+      - q: "Nós seguimos o caminho."
+        a: "ما مسیر را دنبال می‌کنیم."
+        labels: ["حال", "اول شخص جمع"]
+        rel:
+          - ["seguimos", "دنبال می‌کنیم", "seguir - ما دنبال می‌کنیم"]
+          - ["caminho", "مسیر", "اسم"]
+      - q: "Vós seguis o líder?"
+        a: "آیا رهبر را دنبال می‌کنید؟"
+        labels: ["حال", "دوم شخص جمع", "سوال"]
+        rel:
+          - ["seguis", "دنبال می‌کنید", "seguir - شما دنبال می‌کنید"]
+          - ["líder", "رهبر", "اسم"]
+      - q: "Eles seguem viagem."
+        a: "آن‌ها سفر را ادامه می‌دهند."
+        labels: ["حال", "سوم شخص جمع"]
+        rel:
+          - ["seguem", "ادامه می‌دهند", "seguir - آن‌ها دنبال می‌کنند"]
+          - ["viagem", "سفر", "اسم"]
+      - q: "Seguindo o rio, chego ao mar."
+        a: "با دنبال کردن رودخانه، به دریا می‌رسم."
+        labels: ["Gerúndio"]
+        rel:
+          - ["seguindo", "دنبال کردن", "seguir - وجه وصفی"]
+          - ["rio", "رودخانه", "اسم"]
+          - ["mar", "دریا", "اسم"]
+
+  - title: "Começar"
+    explanation: |
+      **Começar** به معنی **شروع کردن** است:
+      - شروع کردن چیزی
+      - آغاز کردن
+      - Começar a + مصدر = شروع کردن به...
+
+      **صرف زمان حال**:
+      - eu começo (من شروع می‌کنم)
+      - tu começas (تو شروع می‌کنی)
+      - ele/ela/você começa (او شروع می‌کند)
+      - nós começamos (ما شروع می‌کنیم)
+      - vós começais (شما شروع می‌کنید)
+      - eles/elas começam (آن‌ها شروع می‌کنند)
+      - **Gerúndio**: começando (شروع کردن)
+    examples:
+      - q: "Eu começo agora."
+        a: "من الان شروع می‌کنم."
+        labels: ["حال", "اول شخص مفرد"]
+        rel:
+          - ["começo", "شروع می‌کنم", "começar - من شروع می‌کنم"]
+          - ["agora", "الان", "زمان"]
+      - q: "Tu começas a trabalhar quando?"
+        a: "کی شروع به کار می‌کنی؟"
+        labels: ["حال", "دوم شخص مفرد", "سوال"]
+        rel:
+          - ["começas", "شروع می‌کنی", "começar - تو شروع می‌کنی"]
+          - ["trabalhar", "کار کردن", "فعل"]
+          - ["quando", "کی", "کلمه پرسشی"]
+      - q: "Ela começa às oito."
+        a: "او ساعت هشت شروع می‌کند."
+        labels: ["حال", "سوم شخص مفرد"]
+        rel:
+          - ["começa", "شروع می‌کند", "começar - او شروع می‌کند"]
+          - ["às oito", "ساعت هشت", "زمان"]
+      - q: "Nós começamos o projeto."
+        a: "ما پروژه را شروع می‌کنیم."
+        labels: ["حال", "اول شخص جمع"]
+        rel:
+          - ["começamos", "شروع می‌کنیم", "começar - ما شروع می‌کنیم"]
+          - ["projeto", "پروژه", "اسم"]
+      - q: "Vós começais amanhã?"
+        a: "آیا فردا شروع می‌کنید؟"
+        labels: ["حال", "دوم شخص جمع", "سوال"]
+        rel:
+          - ["começais", "شروع می‌کنید", "começar - شما شروع می‌کنید"]
+          - ["amanhã", "فردا", "زمان"]
+      - q: "Eles começam a aula."
+        a: "آن‌ها کلاس را شروع می‌کنند."
+        labels: ["حال", "سوم شخص جمع"]
+        rel:
+          - ["começam", "شروع می‌کنند", "começar - آن‌ها شروع می‌کنند"]
+          - ["aula", "کلاس", "اسم"]
+      - q: "Começando cedo, acabo cedo."
+        a: "با شروع زود، زود تمام می‌کنم."
+        labels: ["Gerúndio"]
+        rel:
+          - ["começando", "شروع کردن", "começar - وجه وصفی"]
+          - ["cedo", "زود", "زمان"]
+
+  - title: "Parecer"
+    explanation: |
+      **Parecer** به معنی **به نظر رسیدن** است:
+      - به نظر رسیدن، ظاهر شدن
+      - شبیه بودن
+      - Parecer que = به نظر می‌رسد که
+
+      **صرف زمان حال**:
+      - eu pareço (من به نظر می‌رسم)
+      - tu pareces (تو به نظر می‌رسی)
+      - ele/ela/você parece (او به نظر می‌رسد)
+      - nós parecemos (ما به نظر می‌رسیم)
+      - vós pareceis (شما به نظر می‌رسید)
+      - eles/elas parecem (آن‌ها به نظر می‌رسند)
+      - **Gerúndio**: parecendo (به نظر رسیدن)
+    examples:
+      - q: "Eu pareço cansado?"
+        a: "آیا خسته به نظر می‌رسم؟"
+        labels: ["حال", "اول شخص مفرد", "سوال"]
+        rel:
+          - ["pareço", "به نظر می‌رسم", "parecer - من به نظر می‌رسم"]
+          - ["cansado", "خسته", "صفت"]
+      - q: "Tu pareces feliz."
+        a: "تو خوشحال به نظر می‌رسی."
+        labels: ["حال", "دوم شخص مفرد"]
+        rel:
+          - ["pareces", "به نظر می‌رسی", "parecer - تو به نظر می‌رسی"]
+          - ["feliz", "خوشحال", "صفت"]
+      - q: "Ele parece doente."
+        a: "او مریض به نظر می‌رسد."
+        labels: ["حال", "سوم شخص مفرد"]
+        rel:
+          - ["parece", "به نظر می‌رسد", "parecer - او به نظر می‌رسد"]
+          - ["doente", "مریض", "صفت"]
+      - q: "Nós parecemos irmãos."
+        a: "ما شبیه خواهر و برادر هستیم."
+        labels: ["حال", "اول شخص جمع"]
+        rel:
+          - ["parecemos", "شبیه هستیم", "parecer - ما به نظر می‌رسیم"]
+          - ["irmãos", "خواهر و برادر", "اسم"]
+      - q: "Vós pareceis nervosos."
+        a: "شما عصبانی به نظر می‌رسید."
+        labels: ["حال", "دوم شخص جمع"]
+        rel:
+          - ["pareceis", "به نظر می‌رسید", "parecer - شما به نظر می‌رسید"]
+          - ["nervosos", "عصبانی", "صفت"]
+      - q: "Eles parecem turistas."
+        a: "آن‌ها شبیه توریست‌ها هستند."
+        labels: ["حال", "سوم شخص جمع"]
+        rel:
+          - ["parecem", "شبیه هستند", "parecer - آن‌ها به نظر می‌رسند"]
+          - ["turistas", "توریست‌ها", "اسم"]
+      - q: "Parecendo fácil, é difícil."
+        a: "با اینکه آسان به نظر می‌رسد، سخت است."
+        labels: ["Gerúndio"]
+        rel:
+          - ["parecendo", "به نظر رسیدن", "parecer - وجه وصفی"]
+          - ["fácil", "آسان", "صفت"]
+          - ["difícil", "سخت", "صفت"]
+
+  - title: "اصطلاحات با Parecer"
+    explanation: |
+      **عبارات رایج**:
+      - Parece que = به نظر می‌رسد که
+      - Parece-me que = به نظر من
+      - Ao que parece = ظاهراً
+      - Parecer bem/mal = خوب/بد به نظر رسیدن
+    examples:
+      - q: "Parece que vai chover."
+        a: "به نظر می‌رسد باران می‌آید."
+        labels: ["اصطلاح"]
+        rel:
+          - ["parece que", "به نظر می‌رسد که", "اصطلاح"]
+          - ["chover", "باران آمدن", "فعل"]
+      - q: "Parece-me uma boa ideia."
+        a: "به نظر من ایده خوبی است."
+        labels: ["اصطلاح"]
+        rel:
+          - ["parece-me", "به نظر من", "parecer - به من"]
+          - ["ideia", "ایده", "اسم"]
+      - q: "Ao que parece, está tudo bem."
+        a: "ظاهراً، همه چیز خوب است."
+        labels: ["اصطلاح"]
+        rel:
+          - ["ao que parece", "ظاهراً", "اصطلاح"]
+      - q: "Isto parece-te bem?"
+        a: "آیا این به نظرت خوب است؟"
+        labels: ["اصطلاح", "سوال"]
+        rel:
+          - ["parece-te", "به نظرت", "parecer - به تو"]

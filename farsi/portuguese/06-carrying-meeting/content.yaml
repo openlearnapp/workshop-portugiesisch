@@ -1,0 +1,244 @@
+number: 6
+title: "حمل کردن و ملاقات - آوردن، بردن، پیدا کردن"
+description: "افعال trazer، levar و encontrar با تمام صرف‌ها"
+sections:
+  - title: "Trazer"
+    explanation: |
+      **Trazer** به معنی **آوردن** (به سمت گوینده):
+      - چیزی را نزد گوینده آوردن
+      - همراه آوردن
+      - باعث شدن
+
+      **صرف زمان حال**:
+      - eu trago (من می‌آورم)
+      - tu trazes (تو می‌آوری)
+      - ele/ela/você traz (او می‌آورد)
+      - nós trazemos (ما می‌آوریم)
+      - vós trazeis (شما می‌آورید)
+      - eles/elas trazem (آن‌ها می‌آورند)
+      - **Gerúndio**: trazendo (آوردن)
+    examples:
+      - q: "Eu trago o livro."
+        a: "من کتاب را می‌آورم."
+        labels: ["حال", "اول شخص مفرد"]
+        rel:
+          - ["trago", "می‌آورم", "trazer - من می‌آورم"]
+          - ["livro", "کتاب", "اسم"]
+
+      - q: "Tu trazes a comida?"
+        a: "آیا غذا را می‌آوری؟"
+        labels: ["حال", "دوم شخص مفرد", "سوال"]
+        rel:
+          - ["trazes", "می‌آوری", "trazer - تو می‌آوری"]
+          - ["comida", "غذا", "اسم"]
+
+      - q: "Ele traz boas notícias."
+        a: "او خبرهای خوب می‌آورد."
+        labels: ["حال", "سوم شخص مفرد"]
+        rel:
+          - ["traz", "می‌آورد", "trazer - او می‌آورد"]
+          - ["boas notícias", "خبرهای خوب", "اصطلاح"]
+          - ["notícias", "خبرها", "اسم"]
+
+      - q: "Nós trazemos presentes."
+        a: "ما هدیه‌ها می‌آوریم."
+        labels: ["حال", "اول شخص جمع"]
+        rel:
+          - ["trazemos", "می‌آوریم", "trazer - ما می‌آوریم"]
+          - ["presentes", "هدیه‌ها", "اسم"]
+
+      - q: "Vós trazeis os documentos?"
+        a: "آیا مدارک را می‌آورید؟"
+        labels: ["حال", "دوم شخص جمع", "سوال"]
+        rel:
+          - ["trazeis", "می‌آورید", "trazer - شما می‌آورید"]
+          - ["documentos", "مدارک", "اسم"]
+
+      - q: "Eles trazem problemas."
+        a: "آن‌ها مشکل می‌آورند."
+        labels: ["حال", "سوم شخص جمع"]
+        rel:
+          - ["trazem", "می‌آورند", "trazer - آن‌ها می‌آورند"]
+          - ["problemas", "مشکلات", "اسم"]
+
+      - q: "Trazendo ajuda, salvamos vidas."
+        a: "با آوردن کمک، جان‌ها را نجات می‌دهیم."
+        labels: ["Gerúndio"]
+        rel:
+          - ["trazendo", "آوردن", "trazer - وجه وصفی"]
+          - ["ajuda", "کمک", "اسم"]
+          - ["vidas", "جان‌ها", "اسم"]
+
+  - title: "Levar"
+    explanation: |
+      **Levar** به معنی **بردن/حمل کردن** (دور از گوینده):
+      - چیزی را با خود بردن
+      - کسی را بردن (با ماشین)
+      - زمان بردن (leva tempo)
+
+      **صرف زمان حال**:
+      - eu levo (من می‌برم)
+      - tu levas (تو می‌بری)
+      - ele/ela/você leva (او می‌برد)
+      - nós levamos (ما می‌بریم)
+      - vós levais (شما می‌برید)
+      - eles/elas levam (آن‌ها می‌برند)
+      - **Gerúndio**: levando (بردن)
+    examples:
+      - q: "Eu levo o carro."
+        a: "من ماشین را می‌برم."
+        labels: ["حال", "اول شخص مفرد"]
+        rel:
+          - ["levo", "می‌برم", "levar - من می‌برم"]
+          - ["carro", "ماشین", "اسم - وسیله نقلیه"]
+
+      - q: "Tu levas a mala?"
+        a: "آیا چمدان را می‌بری؟"
+        labels: ["حال", "دوم شخص مفرد", "سوال"]
+        rel:
+          - ["levas", "می‌بری", "levar - تو می‌بری"]
+          - ["mala", "چمدان", "اسم"]
+
+      - q: "Ela leva as crianças à escola."
+        a: "او بچه‌ها را به مدرسه می‌برد."
+        labels: ["حال", "سوم شخص مفرد"]
+        rel:
+          - ["leva", "می‌برد", "levar - او می‌برد"]
+          - ["crianças", "بچه‌ها", "اسم"]
+          - ["escola", "مدرسه", "اسم"]
+
+      - q: "Nós levamos tempo."
+        a: "ما وقت می‌بریم."
+        labels: ["حال", "اول شخص جمع"]
+        rel:
+          - ["levamos", "می‌بریم", "levar - ما می‌بریم"]
+          - ["tempo", "وقت", "اسم"]
+
+      - q: "Vós levais os sacos?"
+        a: "آیا کیسه‌ها را می‌برید؟"
+        labels: ["حال", "دوم شخص جمع", "سوال"]
+        rel:
+          - ["levais", "می‌برید", "levar - شما می‌برید"]
+          - ["sacos", "کیسه‌ها", "اسم"]
+
+      - q: "Eles levam uma vida feliz."
+        a: "آن‌ها زندگی شادی دارند."
+        labels: ["حال", "سوم شخص جمع"]
+        rel:
+          - ["levam", "دارند", "levar - آن‌ها می‌برند"]
+          - ["vida", "زندگی", "اسم"]
+          - ["feliz", "شاد", "صفت"]
+
+      - q: "Levando isto em conta, decido."
+        a: "با در نظر گرفتن این، تصمیم می‌گیرم."
+        labels: ["Gerúndio"]
+        rel:
+          - ["levando", "بردن", "levar - وجه وصفی"]
+          - ["em conta", "در نظر", "اصطلاح"]
+
+  - title: "Encontrar"
+    explanation: |
+      **Encontrar** به معنی **پیدا کردن/ملاقات کردن** است:
+      - پیدا کردن چیزی
+      - ملاقات کسی (تصادفی یا برنامه‌ریزی شده)
+      - قرار داشتن
+
+      **صرف زمان حال**:
+      - eu encontro (من پیدا می‌کنم/ملاقات می‌کنم)
+      - tu encontras (تو پیدا می‌کنی)
+      - ele/ela/você encontra (او پیدا می‌کند)
+      - nós encontramos (ما پیدا می‌کنیم)
+      - vós encontrais (شما پیدا می‌کنید)
+      - eles/elas encontram (آن‌ها پیدا می‌کنند)
+      - **Gerúndio**: encontrando (پیدا کردن)
+    examples:
+      - q: "Eu encontro o caminho."
+        a: "من راه را پیدا می‌کنم."
+        labels: ["حال", "اول شخص مفرد"]
+        rel:
+          - ["encontro", "پیدا می‌کنم", "encontrar - من پیدا می‌کنم"]
+          - ["caminho", "راه", "اسم"]
+
+      - q: "Tu encontras a solução?"
+        a: "آیا راه حل را پیدا می‌کنی؟"
+        labels: ["حال", "دوم شخص مفرد", "سوال"]
+        rel:
+          - ["encontras", "پیدا می‌کنی", "encontrar - تو پیدا می‌کنی"]
+          - ["solução", "راه حل", "اسم"]
+
+      - q: "Ela encontra amigos no café."
+        a: "او دوستانش را در کافه ملاقات می‌کند."
+        labels: ["حال", "سوم شخص مفرد"]
+        rel:
+          - ["encontra", "ملاقات می‌کند", "encontrar - او ملاقات می‌کند"]
+          - ["amigos", "دوستان", "اسم"]
+          - ["café", "کافه", "اسم - مکان"]
+
+      - q: "Nós encontramos dificuldades."
+        a: "ما با مشکلات مواجه می‌شویم."
+        labels: ["حال", "اول شخص جمع"]
+        rel:
+          - ["encontramos", "مواجه می‌شویم", "encontrar - ما پیدا می‌کنیم"]
+          - ["dificuldades", "مشکلات", "اسم"]
+
+      - q: "Vós encontrais sempre desculpas."
+        a: "شما همیشه بهانه پیدا می‌کنید."
+        labels: ["حال", "دوم شخص جمع"]
+        rel:
+          - ["encontrais", "پیدا می‌کنید", "encontrar - شما پیدا می‌کنید"]
+          - ["sempre", "همیشه", "قید"]
+          - ["desculpas", "بهانه‌ها", "اسم"]
+
+      - q: "Eles encontram-se às sete."
+        a: "آن‌ها ساعت هفت همدیگر را ملاقات می‌کنند."
+        labels: ["حال", "سوم شخص جمع"]
+        rel:
+          - ["encontram-se", "ملاقات می‌کنند", "encontrar-se - انعکاسی"]
+          - ["às sete", "ساعت هفت", "زمان"]
+
+      - q: "Encontrando a chave, abro a porta."
+        a: "با پیدا کردن کلید، در را باز می‌کنم."
+        labels: ["Gerúndio"]
+        rel:
+          - ["encontrando", "پیدا کردن", "encontrar - وجه وصفی"]
+          - ["chave", "کلید", "اسم"]
+          - ["porta", "در", "اسم"]
+
+  - title: "Trazer در مقابل Levar"
+    explanation: |
+      **تفاوت مهم**:
+      - **Trazer**: به سمت گوینده (برای من بیاور)
+      - **Levar**: دور از گوینده (با خودت ببر)
+
+      مثل فارسی: آوردن در مقابل بردن
+    examples:
+      - q: "Trago o vinho para a festa."
+        a: "من شراب را به مهمانی می‌آورم (خودم هم می‌روم)."
+        labels: ["Trazer", "جهت"]
+        rel:
+          - ["trago", "می‌آورم", "trazer - به سمت"]
+          - ["vinho", "شراب", "اسم - نوشیدنی"]
+          - ["festa", "مهمانی", "اسم"]
+
+      - q: "Levo o lixo para fora."
+        a: "من زباله را بیرون می‌برم."
+        labels: ["Levar", "جهت"]
+        rel:
+          - ["levo", "می‌برم", "levar - دور"]
+          - ["lixo", "زباله", "اسم"]
+          - ["para fora", "بیرون", "جهت"]
+
+      - q: "Podes trazer-me água?"
+        a: "می‌توانی برایم آب بیاوری؟"
+        labels: ["Trazer", "درخواست"]
+        rel:
+          - ["trazer-me", "برایم بیاور", "به سمت من"]
+          - ["água", "آب", "اسم - نوشیدنی"]
+
+      - q: "Vou levar o cachorro ao veterinário."
+        a: "سگ را به دامپزشک می‌برم."
+        labels: ["Levar", "جهت"]
+        rel:
+          - ["levar", "بردن", "levar - بردن"]
+          - ["cachorro", "سگ", "اسم - حیوان"]
+          - ["veterinário", "دامپزشک", "اسم - شغل"]
