@@ -1,0 +1,47 @@
+<svg width="1280" height="800" viewBox="0 0 1280 800" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#7a2c00"/>
+      <stop offset="100%" style="stop-color:#c85a00"/>
+    </linearGradient>
+    <linearGradient id="card" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:rgba(255,255,255,0.15)"/>
+      <stop offset="100%" style="stop-color:rgba(255,255,255,0.04)"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1280" height="800" fill="url(#bg)"/>
+
+  <!-- Portuguese flag color stripes (subtle) -->
+  <rect x="0" y="0" width="380" height="800" fill="rgba(0,100,0,0.25)"/>
+  <rect x="380" y="0" width="900" height="800" fill="rgba(200,0,0,0.12)"/>
+
+  <!-- Subtle overlay -->
+  <rect width="1280" height="800" fill="rgba(0,0,0,0.25)"/>
+
+  <!-- Center card -->
+  <rect x="290" y="150" width="700" height="500" rx="28" fill="url(#card)" stroke="rgba(255,255,255,0.2)" stroke-width="1.5"/>
+
+  <!-- Wave icon (ocean/Portugal theme) -->
+  <path d="M490 310 Q520 280 550 310 Q580 340 610 310 Q640 280 670 310 Q700 340 730 310 Q760 280 790 310"
+        fill="none" stroke="rgba(255,255,255,0.9)" stroke-width="8" stroke-linecap="round"/>
+  <path d="M510 345 Q540 315 570 345 Q600 375 630 345 Q660 315 690 345 Q720 375 750 345 Q770 325 790 340"
+        fill="none" stroke="rgba(255,255,255,0.6)" stroke-width="6" stroke-linecap="round"/>
+  <path d="M530 378 Q560 350 590 378 Q620 406 650 378 Q680 350 710 378 Q730 360 760 372"
+        fill="none" stroke="rgba(255,255,255,0.35)" stroke-width="5" stroke-linecap="round"/>
+
+  <!-- Main title -->
+  <text x="640" y="468" font-family="Georgia, 'Times New Roman', serif" font-size="80" font-weight="bold"
+        text-anchor="middle" fill="white" letter-spacing="3">Portugiesisch</text>
+
+  <!-- Subtitle -->
+  <text x="640" y="528" font-family="Arial, Helvetica, sans-serif" font-size="28"
+        text-anchor="middle" fill="rgba(255,255,255,0.75)" letter-spacing="2">Verben &amp; Konjugationen</text>
+
+  <!-- Divider -->
+  <rect x="520" y="554" width="240" height="2" rx="1" fill="rgba(255,255,255,0.3)"/>
+
+  <!-- Label -->
+  <text x="640" y="596" font-family="Arial, Helvetica, sans-serif" font-size="22"
+        text-anchor="middle" fill="rgba(255,255,255,0.5)" letter-spacing="3">10 LEKTIONEN · OPEN LEARN</text>
+</svg>
