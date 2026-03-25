@@ -1,0 +1,237 @@
+number: 8
+title: "Looking and Asking - To Look, To Ask, To Use"
+description: "The verbs olhar, pedir and usar with all conjugations"
+sections:
+  - title: "Olhar"
+    explanation: |
+      **Olhar** means **to look/to watch**:
+      - Looking, watching (consciously)
+      - Gazing, paying attention
+      - Olhar para = to look at
+
+      **Present tense conjugation**:
+      - eu olho (I look)
+      - tu olhas (you look)
+      - ele/ela/você olha (he/she looks)
+      - nós olhamos (we look)
+      - vós olhais (you look - plural)
+      - eles/elas olham (they look)
+      - **Gerúndio**: olhando (looking)
+    examples:
+      - q: "Eu olho para o céu."
+        a: "I look at the sky."
+        labels: ["Present", "1st Person Singular"]
+        rel:
+          - ["olho", "look", "olhar - I look"]
+          - ["céu", "sky", "Noun"]
+
+      - q: "Tu olhas para mim?"
+        a: "Are you looking at me?"
+        labels: ["Present", "2nd Person Singular", "Question"]
+        rel:
+          - ["olhas", "look", "olhar - you look"]
+          - ["para mim", "at me", "Preposition + Pronoun"]
+
+      - q: "Ela olha pela janela."
+        a: "She looks out the window."
+        labels: ["Present", "3rd Person Singular"]
+        rel:
+          - ["olha", "looks", "olhar - he/she looks"]
+          - ["janela", "window", "Noun"]
+
+      - q: "Nós olhamos as fotos."
+        a: "We look at the photos."
+        labels: ["Present", "1st Person Plural"]
+        rel:
+          - ["olhamos", "look at", "olhar - we look"]
+          - ["fotos", "photos", "Noun"]
+
+      - q: "Vós olhais para trás?"
+        a: "Do you look back?"
+        labels: ["Present", "2nd Person Plural", "Question"]
+        rel:
+          - ["olhais", "look", "olhar - you look"]
+          - ["para trás", "back", "Expression"]
+
+      - q: "Eles olham o mapa."
+        a: "They look at the map."
+        labels: ["Present", "3rd Person Plural"]
+        rel:
+          - ["olham", "look at", "olhar - they look"]
+          - ["mapa", "map", "Noun"]
+
+      - q: "Olhando ao redor, vejo tudo."
+        a: "Looking around, I see everything."
+        labels: ["Gerúndio"]
+        rel:
+          - ["olhando", "looking", "olhar - Gerund"]
+          - ["ao redor", "around", "Expression"]
+
+  - title: "Pedir"
+    explanation: |
+      **Pedir** means **to ask for/to order**:
+      - Asking for something
+      - Ordering something (restaurant)
+      - Demanding, requesting
+
+      **Present tense conjugation**:
+      - eu peço (I ask)
+      - tu pedes (you ask)
+      - ele/ela/você pede (he/she asks)
+      - nós pedimos (we ask)
+      - vós pedis (you ask - plural)
+      - eles/elas pedem (they ask)
+      - **Gerúndio**: pedindo (asking)
+    examples:
+      - q: "Eu peço desculpa."
+        a: "I apologize."
+        labels: ["Present", "1st Person Singular"]
+        rel:
+          - ["peço", "ask", "pedir - I ask"]
+          - ["desculpa", "apology", "Noun"]
+
+      - q: "Tu pedes ajuda?"
+        a: "Do you ask for help?"
+        labels: ["Present", "2nd Person Singular", "Question"]
+        rel:
+          - ["pedes", "ask", "pedir - you ask"]
+          - ["ajuda", "help", "Noun"]
+
+      - q: "Ele pede uma cerveja."
+        a: "He orders a beer."
+        labels: ["Present", "3rd Person Singular"]
+        rel:
+          - ["pede", "orders", "pedir - he/she orders"]
+          - ["cerveja", "beer", "Noun - Drink"]
+
+      - q: "Nós pedimos silêncio."
+        a: "We ask for silence."
+        labels: ["Present", "1st Person Plural"]
+        rel:
+          - ["pedimos", "ask for", "pedir - we ask"]
+          - ["silêncio", "silence", "Noun"]
+
+      - q: "Vós pedis muito."
+        a: "You demand a lot."
+        labels: ["Present", "2nd Person Plural"]
+        rel:
+          - ["pedis", "demand", "pedir - you ask"]
+          - ["muito", "a lot", "Adverb"]
+
+      - q: "Eles pedem informações."
+        a: "They ask for information."
+        labels: ["Present", "3rd Person Plural"]
+        rel:
+          - ["pedem", "ask for", "pedir - they ask"]
+          - ["informações", "information", "Noun"]
+
+      - q: "Pedindo licença, entro."
+        a: "Asking for permission, I enter."
+        labels: ["Gerúndio"]
+        rel:
+          - ["pedindo", "asking", "pedir - Gerund"]
+          - ["licença", "permission", "Noun"]
+
+  - title: "Usar"
+    explanation: |
+      **Usar** means **to use/to wear**:
+      - Using, utilizing something
+      - Wearing clothes
+      - Employing
+
+      **Present tense conjugation**:
+      - eu uso (I use)
+      - tu usas (you use)
+      - ele/ela/você usa (he/she uses)
+      - nós usamos (we use)
+      - vós usais (you use - plural)
+      - eles/elas usam (they use)
+      - **Gerúndio**: usando (using)
+    examples:
+      - q: "Eu uso o computador."
+        a: "I use the computer."
+        labels: ["Present", "1st Person Singular"]
+        rel:
+          - ["uso", "use", "usar - I use"]
+          - ["computador", "computer", "Noun - Technology"]
+
+      - q: "Tu usas óculos?"
+        a: "Do you wear glasses?"
+        labels: ["Present", "2nd Person Singular", "Question"]
+        rel:
+          - ["usas", "wear", "usar - you use"]
+          - ["óculos", "glasses", "Noun"]
+
+      - q: "Ela usa sempre o telemóvel."
+        a: "She always uses her phone."
+        labels: ["Present", "3rd Person Singular"]
+        rel:
+          - ["usa", "uses", "usar - he/she uses"]
+          - ["sempre", "always", "Adverb"]
+          - ["telemóvel", "phone", "Noun - Technology"]
+
+      - q: "Nós usamos roupa confortável."
+        a: "We wear comfortable clothes."
+        labels: ["Present", "1st Person Plural"]
+        rel:
+          - ["usamos", "wear", "usar - we use"]
+          - ["roupa", "clothes", "Noun"]
+          - ["confortável", "comfortable", "Adjective"]
+
+      - q: "Vós usais esta ferramenta?"
+        a: "Do you use this tool?"
+        labels: ["Present", "2nd Person Plural", "Question"]
+        rel:
+          - ["usais", "use", "usar - you use"]
+          - ["ferramenta", "tool", "Noun"]
+
+      - q: "Eles usam transportes públicos."
+        a: "They use public transport."
+        labels: ["Present", "3rd Person Plural"]
+        rel:
+          - ["usam", "use", "usar - they use"]
+          - ["transportes públicos", "public transport", "Expression"]
+
+      - q: "Usando isto, consigo."
+        a: "Using this, I manage."
+        labels: ["Gerúndio"]
+        rel:
+          - ["usando", "using", "usar - Gerund"]
+          - ["isto", "this", "Pronoun"]
+
+  - title: "Polite Requests"
+    explanation: |
+      **Polite forms with Pedir**:
+      - Por favor = please
+      - Pedir por favor = to ask politely
+      - Pedir desculpa = to apologize
+      - Pedir licença = to ask for permission
+    examples:
+      - q: "Peço por favor que espere."
+        a: "I ask you to please wait."
+        labels: ["Politeness"]
+        rel:
+          - ["peço", "ask", "pedir - polite"]
+          - ["por favor", "please", "Polite form"]
+          - ["espere", "wait", "esperar - Subjunctive"]
+
+      - q: "Posso pedir um favor?"
+        a: "Can I ask a favour?"
+        labels: ["Politeness", "Question"]
+        rel:
+          - ["pedir um favor", "to ask a favour", "Expression"]
+          - ["favor", "favour", "Noun"]
+
+      - q: "Peço desculpa pelo atraso."
+        a: "I apologize for the delay."
+        labels: ["Politeness"]
+        rel:
+          - ["peço desculpa", "apologize", "Idiom"]
+          - ["atraso", "delay", "Noun"]
+
+      - q: "Com licença, posso passar?"
+        a: "Excuse me, may I pass?"
+        labels: ["Politeness"]
+        rel:
+          - ["com licença", "excuse me", "Polite form"]
+          - ["passar", "to pass", "Verb"]

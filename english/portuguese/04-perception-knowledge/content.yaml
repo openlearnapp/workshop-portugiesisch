@@ -1,0 +1,260 @@
+number: 4
+title: "Knowledge and Perception - To Know, To Be Acquainted, To See"
+description: "The verbs saber, conhecer and ver with all conjugations"
+sections:
+  - title: "Saber"
+    explanation: |
+      **Saber** means **to know** (facts, information):
+      - Knowing facts, information
+      - Being able to (saber + Infinitive = to know how to)
+      - Often with "que" (that)
+
+      **Present tense conjugation**:
+      - eu sei (I know)
+      - tu sabes (you know)
+      - ele/ela/você sabe (he/she knows)
+      - nós sabemos (we know)
+      - vós sabeis (you know - plural)
+      - eles/elas sabem (they know)
+      - **Gerúndio**: sabendo (knowing)
+    examples:
+      - q: "Eu sei a resposta."
+        a: "I know the answer."
+        labels: ["Present", "1st Person Singular"]
+        rel:
+          - ["sei", "know", "saber - I know"]
+          - ["resposta", "answer", "Noun"]
+
+      - q: "Tu sabes nadar?"
+        a: "Can you swim?"
+        labels: ["Present", "2nd Person Singular", "Ability"]
+        rel:
+          - ["sabes", "can", "saber - you know/can"]
+          - ["nadar", "to swim", "Verb"]
+
+      - q: "Ela sabe falar inglês."
+        a: "She can speak English."
+        labels: ["Present", "3rd Person Singular"]
+        rel:
+          - ["sabe", "can", "saber - he/she knows"]
+          - ["falar", "to speak", "Verb"]
+          - ["inglês", "English", "Language"]
+
+      - q: "Nós sabemos onde fica."
+        a: "We know where it is."
+        labels: ["Present", "1st Person Plural"]
+        rel:
+          - ["sabemos", "know", "saber - we know"]
+          - ["onde", "where", "Question word"]
+          - ["fica", "is/is located", "ficar"]
+
+      - q: "Vós sabeis a verdade."
+        a: "You know the truth."
+        labels: ["Present", "2nd Person Plural"]
+        rel:
+          - ["sabeis", "know", "saber - you know"]
+          - ["verdade", "truth", "Noun"]
+
+      - q: "Eles sabem o caminho."
+        a: "They know the way."
+        labels: ["Present", "3rd Person Plural"]
+        rel:
+          - ["sabem", "know", "saber - they know"]
+          - ["caminho", "way", "Noun"]
+
+      - q: "Sabendo isto, posso ajudar."
+        a: "Knowing this, I can help."
+        labels: ["Gerúndio"]
+        rel:
+          - ["sabendo", "knowing", "saber - Gerund"]
+          - ["isto", "this", "Pronoun"]
+
+  - title: "Conhecer"
+    explanation: |
+      **Conhecer** means **to know/be acquainted with** (people, places):
+      - Knowing people personally
+      - Knowing places, cities (having been there)
+      - Being familiar with something
+
+      **Present tense conjugation**:
+      - eu conheço (I know)
+      - tu conheces (you know)
+      - ele/ela/você conhece (he/she knows)
+      - nós conhecemos (we know)
+      - vós conheceis (you know - plural)
+      - eles/elas conhecem (they know)
+      - **Gerúndio**: conhecendo (knowing)
+    examples:
+      - q: "Eu conheço o Pedro."
+        a: "I know Pedro."
+        labels: ["Present", "1st Person Singular"]
+        rel:
+          - ["conheço", "know", "conhecer - I know"]
+          - ["Pedro", "Pedro", "Name"]
+
+      - q: "Tu conheces Paris?"
+        a: "Do you know Paris?"
+        labels: ["Present", "2nd Person Singular", "Question"]
+        rel:
+          - ["conheces", "know", "conhecer - you know"]
+          - ["Paris", "Paris", "City"]
+
+      - q: "Ela conhece muita gente."
+        a: "She knows a lot of people."
+        labels: ["Present", "3rd Person Singular"]
+        rel:
+          - ["conhece", "knows", "conhecer - he/she knows"]
+          - ["muita gente", "a lot of people", "Expression"]
+          - ["gente", "people", "Noun"]
+
+      - q: "Nós conhecemos este restaurante."
+        a: "We know this restaurant."
+        labels: ["Present", "1st Person Plural"]
+        rel:
+          - ["conhecemos", "know", "conhecer - we know"]
+          - ["este", "this", "Demonstrative pronoun"]
+          - ["restaurante", "restaurant", "Noun"]
+
+      - q: "Vós conheceis a cidade?"
+        a: "Do you know the city?"
+        labels: ["Present", "2nd Person Plural", "Question"]
+        rel:
+          - ["conheceis", "know", "conhecer - you know"]
+          - ["cidade", "city", "Noun"]
+
+      - q: "Eles conhecem bem o assunto."
+        a: "They know the subject well."
+        labels: ["Present", "3rd Person Plural"]
+        rel:
+          - ["conhecem", "know", "conhecer - they know"]
+          - ["bem", "well", "Adverb"]
+          - ["assunto", "subject", "Noun"]
+
+      - q: "Conhecendo a situação, podemos decidir."
+        a: "Knowing the situation, we can decide."
+        labels: ["Gerúndio"]
+        rel:
+          - ["conhecendo", "knowing", "conhecer - Gerund"]
+          - ["situação", "situation", "Noun"]
+
+  - title: "Ver"
+    explanation: |
+      **Ver** means **to see**:
+      - Visual perception
+      - Meeting (vou ver o João = I'll meet João)
+      - Watching (ver televisão)
+
+      **Present tense conjugation**:
+      - eu vejo (I see)
+      - tu vês (you see)
+      - ele/ela/você vê (he/she sees)
+      - nós vemos (we see)
+      - vós vedes (you see - plural)
+      - eles/elas veem (they see)
+      - **Gerúndio**: vendo (seeing)
+    examples:
+      - q: "Eu vejo um pássaro."
+        a: "I see a bird."
+        labels: ["Present", "1st Person Singular"]
+        rel:
+          - ["vejo", "see", "ver - I see"]
+          - ["pássaro", "bird", "Noun - Animal"]
+
+      - q: "Tu vês o problema?"
+        a: "Do you see the problem?"
+        labels: ["Present", "2nd Person Singular", "Question"]
+        rel:
+          - ["vês", "see", "ver - you see"]
+          - ["problema", "problem", "Noun"]
+
+      - q: "Ele vê televisão."
+        a: "He watches television."
+        labels: ["Present", "3rd Person Singular"]
+        rel:
+          - ["vê", "watches", "ver - he/she sees"]
+          - ["televisão", "television", "Noun"]
+
+      - q: "Nós vemos um filme."
+        a: "We watch a movie."
+        labels: ["Present", "1st Person Plural"]
+        rel:
+          - ["vemos", "watch", "ver - we see"]
+          - ["filme", "movie", "Noun"]
+
+      - q: "Vós vedes a diferença?"
+        a: "Do you see the difference?"
+        labels: ["Present", "2nd Person Plural", "Question"]
+        rel:
+          - ["vedes", "see", "ver - you see"]
+          - ["diferença", "difference", "Noun"]
+
+      - q: "Eles veem estrelas."
+        a: "They see stars."
+        labels: ["Present", "3rd Person Plural"]
+        rel:
+          - ["veem", "see", "ver - they see"]
+          - ["estrelas", "stars", "Noun"]
+
+      - q: "Vendo isso, entendo tudo."
+        a: "Seeing that, I understand everything."
+        labels: ["Gerúndio"]
+        rel:
+          - ["vendo", "seeing", "ver - Gerund"]
+          - ["isso", "that", "Pronoun"]
+          - ["entendo", "understand", "entender"]
+
+  - title: "Saber vs Conhecer"
+    explanation: |
+      **Important difference**:
+      - **Saber**: facts, information, skills
+      - **Conhecer**: people, places, acquaintance
+
+      Examples:
+      - Sei o nome = I know the name
+      - Conheço o Pedro = I know Pedro
+      - Sei nadar = I can swim
+      - Conheço Lisboa = I know Lisbon
+    examples:
+      - q: "Eu sei o teu nome."
+        a: "I know your name."
+        labels: ["Saber", "Information"]
+        rel:
+          - ["sei", "know", "saber - fact"]
+          - ["teu", "your", "Possessive pronoun"]
+          - ["nome", "name", "Noun"]
+
+      - q: "Eu conheço-te."
+        a: "I know you."
+        labels: ["Conhecer", "Person"]
+        rel:
+          - ["conheço-te", "know you", "conhecer - person"]
+          - ["te", "you", "Pronoun"]
+
+      - q: "Ela sabe cozinhar."
+        a: "She can cook."
+        labels: ["Saber", "Ability"]
+        rel:
+          - ["sabe", "can", "saber - ability"]
+          - ["cozinhar", "to cook", "Verb"]
+
+      - q: "Ela conhece a cozinha portuguesa."
+        a: "She knows Portuguese cuisine."
+        labels: ["Conhecer", "Familiarity"]
+        rel:
+          - ["conhece", "knows", "conhecer - familiar with"]
+          - ["cozinha", "cuisine", "Noun"]
+          - ["portuguesa", "Portuguese", "Adjective"]
+
+      - q: "Nós sabemos que é difícil."
+        a: "We know that it is difficult."
+        labels: ["Saber", "Fact"]
+        rel:
+          - ["sabemos", "know", "saber - fact"]
+          - ["difícil", "difficult", "Adjective"]
+
+      - q: "Nós conhecemos este lugar."
+        a: "We know this place."
+        labels: ["Conhecer", "Place"]
+        rel:
+          - ["conhecemos", "know", "conhecer - place"]
+          - ["lugar", "place", "Noun"]

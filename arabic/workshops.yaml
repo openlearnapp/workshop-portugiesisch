@@ -1,0 +1,10 @@
+workshops:
+  - folder: portuguese
+    code: pt-PT
+    title: "البرتغالية"
+    description: "١٠ دروس حول أهم ٣٠ فعل برتغالي وتصريفاتها."
+    color: "30 50% 95%"
+    primaryColor: "25 80% 50%"
+    image: "portugiesisch/thumbnail.svg"
+    coach:
+      email: "open-learn@felixboehm.it"

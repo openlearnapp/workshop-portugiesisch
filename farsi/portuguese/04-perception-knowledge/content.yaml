@@ -1,0 +1,260 @@
+number: 4
+title: "دانش و ادراک - دانستن، شناختن، دیدن"
+description: "افعال saber، conhecer و ver با تمام صرف‌ها"
+sections:
+  - title: "Saber"
+    explanation: |
+      **Saber** به معنی **دانستن** (حقایق، اطلاعات):
+      - دانستن حقایق، اطلاعات
+      - توانستن (saber + مصدر = بلد بودن)
+      - اغلب با "que" (که)
+
+      **صرف زمان حال**:
+      - eu sei (من می‌دانم)
+      - tu sabes (تو می‌دانی)
+      - ele/ela/você sabe (او می‌داند)
+      - nós sabemos (ما می‌دانیم)
+      - vós sabeis (شما می‌دانید)
+      - eles/elas sabem (آن‌ها می‌دانند)
+      - **Gerúndio**: sabendo (دانستن)
+    examples:
+      - q: "Eu sei a resposta."
+        a: "من جواب را می‌دانم."
+        labels: ["حال", "اول شخص مفرد"]
+        rel:
+          - ["sei", "می‌دانم", "saber - من می‌دانم"]
+          - ["resposta", "جواب", "اسم"]
+
+      - q: "Tu sabes nadar?"
+        a: "آیا شنا بلدی؟"
+        labels: ["حال", "دوم شخص مفرد", "توانایی"]
+        rel:
+          - ["sabes", "بلدی", "saber - تو می‌دانی/بلدی"]
+          - ["nadar", "شنا کردن", "فعل"]
+
+      - q: "Ela sabe falar inglês."
+        a: "او انگلیسی بلد است."
+        labels: ["حال", "سوم شخص مفرد"]
+        rel:
+          - ["sabe", "بلد است", "saber - او می‌داند"]
+          - ["falar", "صحبت کردن", "فعل"]
+          - ["inglês", "انگلیسی", "زبان"]
+
+      - q: "Nós sabemos onde fica."
+        a: "ما می‌دانیم کجاست."
+        labels: ["حال", "اول شخص جمع"]
+        rel:
+          - ["sabemos", "می‌دانیم", "saber - ما می‌دانیم"]
+          - ["onde", "کجا", "کلمه پرسشی"]
+          - ["fica", "است/قرار دارد", "ficar"]
+
+      - q: "Vós sabeis a verdade."
+        a: "شما حقیقت را می‌دانید."
+        labels: ["حال", "دوم شخص جمع"]
+        rel:
+          - ["sabeis", "می‌دانید", "saber - شما می‌دانید"]
+          - ["verdade", "حقیقت", "اسم"]
+
+      - q: "Eles sabem o caminho."
+        a: "آن‌ها راه را می‌دانند."
+        labels: ["حال", "سوم شخص جمع"]
+        rel:
+          - ["sabem", "می‌دانند", "saber - آن‌ها می‌دانند"]
+          - ["caminho", "راه", "اسم"]
+
+      - q: "Sabendo isto, posso ajudar."
+        a: "با دانستن این، می‌توانم کمک کنم."
+        labels: ["Gerúndio"]
+        rel:
+          - ["sabendo", "دانستن", "saber - وجه وصفی"]
+          - ["isto", "این", "ضمیر"]
+
+  - title: "Conhecer"
+    explanation: |
+      **Conhecer** به معنی **شناختن** (افراد، مکان‌ها):
+      - شناختن شخصی افراد
+      - شناختن مکان‌ها، شهرها (رفته بودن)
+      - آشنا بودن با چیزی
+
+      **صرف زمان حال**:
+      - eu conheço (من می‌شناسم)
+      - tu conheces (تو می‌شناسی)
+      - ele/ela/você conhece (او می‌شناسد)
+      - nós conhecemos (ما می‌شناسیم)
+      - vós conheceis (شما می‌شناسید)
+      - eles/elas conhecem (آن‌ها می‌شناسند)
+      - **Gerúndio**: conhecendo (شناختن)
+    examples:
+      - q: "Eu conheço o Pedro."
+        a: "من پدرو را می‌شناسم."
+        labels: ["حال", "اول شخص مفرد"]
+        rel:
+          - ["conheço", "می‌شناسم", "conhecer - من می‌شناسم"]
+          - ["Pedro", "Pedro", "نام"]
+
+      - q: "Tu conheces Paris?"
+        a: "آیا پاریس را می‌شناسی؟"
+        labels: ["حال", "دوم شخص مفرد", "سوال"]
+        rel:
+          - ["conheces", "می‌شناسی", "conhecer - تو می‌شناسی"]
+          - ["Paris", "Paris", "شهر"]
+
+      - q: "Ela conhece muita gente."
+        a: "او خیلی‌ها را می‌شناسد."
+        labels: ["حال", "سوم شخص مفرد"]
+        rel:
+          - ["conhece", "می‌شناسد", "conhecer - او می‌شناسد"]
+          - ["muita gente", "مردم زیادی", "اصطلاح"]
+          - ["gente", "مردم", "اسم"]
+
+      - q: "Nós conhecemos este restaurante."
+        a: "ما این رستوران را می‌شناسیم."
+        labels: ["حال", "اول شخص جمع"]
+        rel:
+          - ["conhecemos", "می‌شناسیم", "conhecer - ما می‌شناسیم"]
+          - ["este", "این", "ضمیر اشاره"]
+          - ["restaurante", "رستوران", "اسم"]
+
+      - q: "Vós conheceis a cidade?"
+        a: "آیا شهر را می‌شناسید؟"
+        labels: ["حال", "دوم شخص جمع", "سوال"]
+        rel:
+          - ["conheceis", "می‌شناسید", "conhecer - شما می‌شناسید"]
+          - ["cidade", "شهر", "اسم"]
+
+      - q: "Eles conhecem bem o assunto."
+        a: "آن‌ها موضوع را خوب می‌شناسند."
+        labels: ["حال", "سوم شخص جمع"]
+        rel:
+          - ["conhecem", "می‌شناسند", "conhecer - آن‌ها می‌شناسند"]
+          - ["bem", "خوب", "قید"]
+          - ["assunto", "موضوع", "اسم"]
+
+      - q: "Conhecendo a situação, podemos decidir."
+        a: "با شناختن وضعیت، می‌توانیم تصمیم بگیریم."
+        labels: ["Gerúndio"]
+        rel:
+          - ["conhecendo", "شناختن", "conhecer - وجه وصفی"]
+          - ["situação", "وضعیت", "اسم"]
+
+  - title: "Ver"
+    explanation: |
+      **Ver** به معنی **دیدن** است:
+      - درک بصری
+      - ملاقات (vou ver o João = با ژوائو ملاقات می‌کنم)
+      - تماشا کردن (ver televisão)
+
+      **صرف زمان حال**:
+      - eu vejo (من می‌بینم)
+      - tu vês (تو می‌بینی)
+      - ele/ela/você vê (او می‌بیند)
+      - nós vemos (ما می‌بینیم)
+      - vós vedes (شما می‌بینید)
+      - eles/elas veem (آن‌ها می‌بینند)
+      - **Gerúndio**: vendo (دیدن)
+    examples:
+      - q: "Eu vejo um pássaro."
+        a: "من یک پرنده می‌بینم."
+        labels: ["حال", "اول شخص مفرد"]
+        rel:
+          - ["vejo", "می‌بینم", "ver - من می‌بینم"]
+          - ["pássaro", "پرنده", "اسم - حیوان"]
+
+      - q: "Tu vês o problema?"
+        a: "آیا مشکل را می‌بینی؟"
+        labels: ["حال", "دوم شخص مفرد", "سوال"]
+        rel:
+          - ["vês", "می‌بینی", "ver - تو می‌بینی"]
+          - ["problema", "مشکل", "اسم"]
+
+      - q: "Ele vê televisão."
+        a: "او تلویزیون تماشا می‌کند."
+        labels: ["حال", "سوم شخص مفرد"]
+        rel:
+          - ["vê", "تماشا می‌کند", "ver - او می‌بیند"]
+          - ["televisão", "تلویزیون", "اسم"]
+
+      - q: "Nós vemos um filme."
+        a: "ما یک فیلم تماشا می‌کنیم."
+        labels: ["حال", "اول شخص جمع"]
+        rel:
+          - ["vemos", "تماشا می‌کنیم", "ver - ما می‌بینیم"]
+          - ["filme", "فیلم", "اسم"]
+
+      - q: "Vós vedes a diferença?"
+        a: "آیا تفاوت را می‌بینید؟"
+        labels: ["حال", "دوم شخص جمع", "سوال"]
+        rel:
+          - ["vedes", "می‌بینید", "ver - شما می‌بینید"]
+          - ["diferença", "تفاوت", "اسم"]
+
+      - q: "Eles veem estrelas."
+        a: "آن‌ها ستاره‌ها را می‌بینند."
+        labels: ["حال", "سوم شخص جمع"]
+        rel:
+          - ["veem", "می‌بینند", "ver - آن‌ها می‌بینند"]
+          - ["estrelas", "ستاره‌ها", "اسم"]
+
+      - q: "Vendo isso, entendo tudo."
+        a: "با دیدن آن، همه چیز را می‌فهمم."
+        labels: ["Gerúndio"]
+        rel:
+          - ["vendo", "دیدن", "ver - وجه وصفی"]
+          - ["isso", "آن", "ضمیر"]
+          - ["entendo", "می‌فهمم", "entender"]
+
+  - title: "Saber در مقابل Conhecer"
+    explanation: |
+      **تفاوت مهم**:
+      - **Saber**: حقایق، اطلاعات، مهارت‌ها
+      - **Conhecer**: افراد، مکان‌ها، آشنایی
+
+      مثال‌ها:
+      - Sei o nome = نام را می‌دانم
+      - Conheço o Pedro = پدرو را می‌شناسم
+      - Sei nadar = شنا بلدم
+      - Conheço Lisboa = لیسبون را می‌شناسم
+    examples:
+      - q: "Eu sei o teu nome."
+        a: "من اسم تو را می‌دانم."
+        labels: ["Saber", "اطلاعات"]
+        rel:
+          - ["sei", "می‌دانم", "saber - حقیقت"]
+          - ["teu", "تو", "ضمیر ملکی"]
+          - ["nome", "نام", "اسم"]
+
+      - q: "Eu conheço-te."
+        a: "من تو را می‌شناسم."
+        labels: ["Conhecer", "شخص"]
+        rel:
+          - ["conheço-te", "تو را می‌شناسم", "conhecer - شخص"]
+          - ["te", "تو را", "ضمیر"]
+
+      - q: "Ela sabe cozinhar."
+        a: "او آشپزی بلد است."
+        labels: ["Saber", "توانایی"]
+        rel:
+          - ["sabe", "بلد است", "saber - توانایی"]
+          - ["cozinhar", "آشپزی کردن", "فعل"]
+
+      - q: "Ela conhece a cozinha portuguesa."
+        a: "او آشپزی پرتغالی را می‌شناسد."
+        labels: ["Conhecer", "آشنایی"]
+        rel:
+          - ["conhece", "می‌شناسد", "conhecer - آشنا با"]
+          - ["cozinha", "آشپزی", "اسم"]
+          - ["portuguesa", "پرتغالی", "صفت"]
+
+      - q: "Nós sabemos que é difícil."
+        a: "ما می‌دانیم که سخت است."
+        labels: ["Saber", "حقیقت"]
+        rel:
+          - ["sabemos", "می‌دانیم", "saber - حقیقت"]
+          - ["difícil", "سخت", "صفت"]
+
+      - q: "Nós conhecemos este lugar."
+        a: "ما این مکان را می‌شناسیم."
+        labels: ["Conhecer", "مکان"]
+        rel:
+          - ["conhecemos", "می‌شناسیم", "conhecer - مکان"]
+          - ["lugar", "مکان", "اسم"]

@@ -1,0 +1,257 @@
+version: 1
+number: 1
+title: "افعال ضروری - بودن و داشتن"
+description: "مهم‌ترین افعال ser، estar و ter با تمام صرف‌ها"
+sections:
+  - title: "Ser"
+    explanation: |
+      **Ser** برای **حالت‌های دائمی** استفاده می‌شود:
+      - هویت، ملیت، شغل
+      - ویژگی‌های شخصیتی
+      - زمان، تاریخ
+
+      **صرف زمان حال**:
+      - eu sou (من هستم)
+      - tu és (تو هستی)
+      - ele/ela/você é (او هست، شما هستید)
+      - nós somos (ما هستیم)
+      - vós sois (شما هستید)
+      - eles/elas são (آن‌ها هستند)
+      - **Gerúndio**: sendo (بودن)
+    examples:
+      - q: "Eu sou professor."
+        a: "من معلم هستم."
+        labels: ["حال", "اول شخص مفرد"]
+        rel:
+          - ["sou", "هستم", "ser - من هستم"]
+          - ["professor", "معلم", "اسم - شغل"]
+
+      - q: "Tu és inteligente."
+        a: "تو باهوش هستی."
+        labels: ["حال", "دوم شخص مفرد"]
+        rel:
+          - ["és", "هستی", "ser - تو هستی"]
+          - ["inteligente", "باهوش", "صفت"]
+
+      - q: "Ela é portuguesa."
+        a: "او پرتغالی است."
+        labels: ["حال", "سوم شخص مفرد"]
+        rel:
+          - ["é", "است", "ser - او هست"]
+          - ["portuguesa", "پرتغالی", "ملیت"]
+
+      - q: "Nós somos estudantes."
+        a: "ما دانشجو هستیم."
+        labels: ["حال", "اول شخص جمع"]
+        rel:
+          - ["somos", "هستیم", "ser - ما هستیم"]
+          - ["estudantes", "دانشجوها", "اسم - شغل"]
+
+      - q: "Vós sois amigos."
+        a: "شما دوست هستید."
+        labels: ["حال", "دوم شخص جمع"]
+        rel:
+          - ["sois", "هستید", "ser - شما هستید"]
+          - ["amigos", "دوستان", "اسم - رابطه"]
+
+      - q: "Eles são médicos."
+        a: "آن‌ها پزشک هستند."
+        labels: ["حال", "سوم شخص جمع"]
+        rel:
+          - ["são", "هستند", "ser - آن‌ها هستند"]
+          - ["médicos", "پزشکان", "اسم - شغل"]
+
+      - q: "Sendo honesto, não gosto."
+        a: "صادقانه بگویم، خوشم نمی‌آید."
+        labels: ["Gerúndio"]
+        rel:
+          - ["sendo", "بودن", "ser - وجه وصفی"]
+          - ["honesto", "صادق", "صفت"]
+
+  - title: "Estar"
+    explanation: |
+      **Estar** برای **حالت‌های موقتی** و **مکان** استفاده می‌شود:
+      - حالت‌های موقتی، احساسات
+      - جایی که چیزی/کسی قرار دارد
+      - فرم استمراری (estar + Gerúndio)
+
+      **صرف زمان حال**:
+      - eu estou (من هستم)
+      - tu estás (تو هستی)
+      - ele/ela/você está (او هست، شما هستید)
+      - nós estamos (ما هستیم)
+      - vós estais (شما هستید)
+      - eles/elas estão (آن‌ها هستند)
+      - **Gerúndio**: estando (بودن)
+    examples:
+      - q: "Eu estou cansado."
+        a: "من خسته هستم."
+        labels: ["حال", "اول شخص مفرد"]
+        rel:
+          - ["estou", "هستم", "estar - من هستم"]
+          - ["cansado", "خسته", "صفت - حالت"]
+
+      - q: "Tu estás em casa."
+        a: "تو در خانه هستی."
+        labels: ["حال", "دوم شخص مفرد"]
+        rel:
+          - ["estás", "هستی", "estar - تو هستی"]
+          - ["em casa", "در خانه", "مکان"]
+
+      - q: "Ele está feliz hoje."
+        a: "او امروز خوشحال است."
+        labels: ["حال", "سوم شخص مفرد"]
+        rel:
+          - ["está", "است", "estar - او هست"]
+          - ["feliz", "خوشحال", "صفت - احساس"]
+          - ["hoje", "امروز", "زمان"]
+
+      - q: "Nós estamos no restaurante."
+        a: "ما در رستوران هستیم."
+        labels: ["حال", "اول شخص جمع"]
+        rel:
+          - ["estamos", "هستیم", "estar - ما هستیم"]
+          - ["no restaurante", "در رستوران", "مکان"]
+
+      - q: "Vós estais ocupados."
+        a: "شما مشغول هستید."
+        labels: ["حال", "دوم شخص جمع"]
+        rel:
+          - ["estais", "هستید", "estar - شما هستید"]
+          - ["ocupados", "مشغول", "صفت - حالت"]
+
+      - q: "Eles estão em Lisboa."
+        a: "آن‌ها در لیسبون هستند."
+        labels: ["حال", "سوم شخص جمع"]
+        rel:
+          - ["estão", "هستند", "estar - آن‌ها هستند"]
+          - ["em Lisboa", "در لیسبون", "مکان"]
+
+      - q: "Estando doente, fiquei em casa."
+        a: "چون مریض بودم، در خانه ماندم."
+        labels: ["Gerúndio"]
+        rel:
+          - ["estando", "بودن", "estar - وجه وصفی"]
+          - ["doente", "مریض", "صفت - سلامت"]
+
+  - title: "Ter"
+    explanation: |
+      **Ter** به معنی **داشتن** است و بیان می‌کند:
+      - مالکیت
+      - روابط
+      - تعهدات (ter que = باید)
+      - سن (tenho 25 anos = من ۲۵ ساله هستم)
+
+      **صرف زمان حال**:
+      - eu tenho (من دارم)
+      - tu tens (تو داری)
+      - ele/ela/você tem (او دارد، شما دارید)
+      - nós temos (ما داریم)
+      - vós tendes (شما دارید)
+      - eles/elas têm (آن‌ها دارند)
+      - **Gerúndio**: tendo (داشتن)
+    examples:
+      - q: "Eu tenho um carro."
+        a: "من یک ماشین دارم."
+        labels: ["حال", "اول شخص مفرد"]
+        rel:
+          - ["tenho", "دارم", "ter - من دارم"]
+          - ["um carro", "یک ماشین", "اسم - وسیله نقلیه"]
+
+      - q: "Tu tens razão."
+        a: "تو حق داری."
+        labels: ["حال", "دوم شخص مفرد"]
+        rel:
+          - ["tens", "داری", "ter - تو داری"]
+          - ["razão", "حق", "اسم - اصطلاح"]
+
+      - q: "Ela tem dois irmãos."
+        a: "او دو برادر دارد."
+        labels: ["حال", "سوم شخص مفرد"]
+        rel:
+          - ["tem", "دارد", "ter - او دارد"]
+          - ["dois", "دو", "عدد"]
+          - ["irmãos", "برادرها", "اسم - خانواده"]
+
+      - q: "Nós temos fome."
+        a: "ما گرسنه هستیم."
+        labels: ["حال", "اول شخص جمع"]
+        rel:
+          - ["temos", "داریم", "ter - ما داریم"]
+          - ["fome", "گرسنگی", "اسم - نیاز"]
+
+      - q: "Vós tendes tempo."
+        a: "شما وقت دارید."
+        labels: ["حال", "دوم شخص جمع"]
+        rel:
+          - ["tendes", "دارید", "ter - شما دارید"]
+          - ["tempo", "وقت", "اسم"]
+
+      - q: "Eles têm uma casa grande."
+        a: "آن‌ها یک خانه بزرگ دارند."
+        labels: ["حال", "سوم شخص جمع"]
+        rel:
+          - ["têm", "دارند", "ter - آن‌ها دارند"]
+          - ["uma casa", "یک خانه", "اسم - مسکن"]
+          - ["grande", "بزرگ", "صفت"]
+
+      - q: "Tendo dinheiro, posso viajar."
+        a: "اگر پول داشته باشم، می‌توانم سفر کنم."
+        labels: ["Gerúndio"]
+        rel:
+          - ["tendo", "داشتن", "ter - وجه وصفی"]
+          - ["dinheiro", "پول", "اسم"]
+          - ["viajar", "سفر کردن", "فعل - مصدر"]
+
+  - title: "Ser در مقابل Estar"
+    explanation: |
+      **تفاوت مهم**:
+      - **Ser**: دائمی، تغییرناپذیر، ذات
+      - **Estar**: موقتی، تغییرپذیر، حالت
+
+      مثال‌های تفاوت:
+      - Ser alto = قد بلند بودن (ویژگی)
+      - Estar alto = بالا بودن (موقعیت)
+      - Ser feliz = خوشحال بودن (شخصیت)
+      - Estar feliz = خوشحال بودن (احساس لحظه‌ای)
+    examples:
+      - q: "O café é quente."
+        a: "قهوه (به طور کلی) داغ است."
+        labels: ["Ser", "ویژگی"]
+        rel:
+          - ["é", "است", "ser - ویژگی"]
+          - ["café", "قهوه", "اسم - نوشیدنی"]
+          - ["quente", "داغ", "صفت"]
+
+      - q: "O café está quente."
+        a: "قهوه (الان) داغ است."
+        labels: ["Estar", "حالت"]
+        rel:
+          - ["está", "است", "estar - حالت موقت"]
+
+      - q: "Ela é bonita."
+        a: "او (ذاتاً) زیباست."
+        labels: ["Ser", "ویژگی"]
+        rel:
+          - ["é", "است", "ser - دائمی"]
+          - ["bonita", "زیبا", "صفت"]
+
+      - q: "Ela está bonita hoje."
+        a: "او امروز زیبا به نظر می‌رسد."
+        labels: ["Estar", "حالت"]
+        rel:
+          - ["está", "است", "estar - امروز"]
+
+      - q: "Eu sou de Portugal."
+        a: "من اهل پرتغال هستم."
+        labels: ["Ser", "اصلیت"]
+        rel:
+          - ["sou", "هستم", "ser - اصلیت"]
+          - ["de Portugal", "از پرتغال", "مکان"]
+
+      - q: "Eu estou em Portugal."
+        a: "من (الان) در پرتغال هستم."
+        labels: ["Estar", "مکان"]
+        rel:
+          - ["estou", "هستم", "estar - مکان فعلی"]
+          - ["em Portugal", "در پرتغال", "مکان"]

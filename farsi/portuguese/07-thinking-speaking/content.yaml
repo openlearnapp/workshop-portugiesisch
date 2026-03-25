@@ -1,0 +1,239 @@
+number: 7
+title: "فکر کردن و صحبت کردن - فکر کردن، حرف زدن، شنیدن"
+description: "افعال pensar، falar و ouvir با تمام صرف‌ها"
+sections:
+  - title: "Pensar"
+    explanation: |
+      **Pensar** به معنی **فکر کردن** است:
+      - اندیشیدن، تأمل کردن
+      - باور داشتن (penso que = فکر می‌کنم که)
+      - به چیزی فکر کردن (pensar em)
+
+      **صرف زمان حال**:
+      - eu penso (من فکر می‌کنم)
+      - tu pensas (تو فکر می‌کنی)
+      - ele/ela/você pensa (او فکر می‌کند)
+      - nós pensamos (ما فکر می‌کنیم)
+      - vós pensais (شما فکر می‌کنید)
+      - eles/elas pensam (آن‌ها فکر می‌کنند)
+      - **Gerúndio**: pensando (فکر کردن)
+    examples:
+      - q: "Eu penso muito."
+        a: "من زیاد فکر می‌کنم."
+        labels: ["حال", "اول شخص مفرد"]
+        rel:
+          - ["penso", "فکر می‌کنم", "pensar - من فکر می‌کنم"]
+          - ["muito", "زیاد", "قید"]
+
+      - q: "Tu pensas em mim?"
+        a: "آیا به من فکر می‌کنی؟"
+        labels: ["حال", "دوم شخص مفرد", "سوال"]
+        rel:
+          - ["pensas", "فکر می‌کنی", "pensar - تو فکر می‌کنی"]
+          - ["em mim", "به من", "حرف اضافه + ضمیر"]
+
+      - q: "Ele pensa que é fácil."
+        a: "او فکر می‌کند آسان است."
+        labels: ["حال", "سوم شخص مفرد"]
+        rel:
+          - ["pensa", "فکر می‌کند", "pensar - او فکر می‌کند"]
+          - ["fácil", "آسان", "صفت"]
+
+      - q: "Nós pensamos no futuro."
+        a: "ما به آینده فکر می‌کنیم."
+        labels: ["حال", "اول شخص جمع"]
+        rel:
+          - ["pensamos", "فکر می‌کنیم", "pensar - ما فکر می‌کنیم"]
+          - ["futuro", "آینده", "اسم"]
+
+      - q: "Vós pensais bem?"
+        a: "آیا خوب فکر می‌کنید؟"
+        labels: ["حال", "دوم شخص جمع", "سوال"]
+        rel:
+          - ["pensais", "فکر می‌کنید", "pensar - شما فکر می‌کنید"]
+          - ["bem", "خوب", "قید"]
+
+      - q: "Eles pensam o mesmo."
+        a: "آن‌ها همین فکر را می‌کنند."
+        labels: ["حال", "سوم شخص جمع"]
+        rel:
+          - ["pensam", "فکر می‌کنند", "pensar - آن‌ها فکر می‌کنند"]
+          - ["mesmo", "همان", "ضمیر"]
+
+      - q: "Pensando nisso, mudo de ideia."
+        a: "با فکر کردن به آن، نظرم را عوض می‌کنم."
+        labels: ["Gerúndio"]
+        rel:
+          - ["pensando", "فکر کردن", "pensar - وجه وصفی"]
+          - ["nisso", "به آن", "ضمیر"]
+          - ["ideia", "نظر/ایده", "اسم"]
+
+  - title: "Falar"
+    explanation: |
+      **Falar** به معنی **صحبت کردن** است:
+      - حرف زدن، صحبت کردن
+      - یک زبان صحبت کردن
+      - درباره چیزی حرف زدن (falar de/sobre)
+
+      **صرف زمان حال**:
+      - eu falo (من صحبت می‌کنم)
+      - tu falas (تو صحبت می‌کنی)
+      - ele/ela/você fala (او صحبت می‌کند)
+      - nós falamos (ما صحبت می‌کنیم)
+      - vós falais (شما صحبت می‌کنید)
+      - eles/elas falam (آن‌ها صحبت می‌کنند)
+      - **Gerúndio**: falando (صحبت کردن)
+    examples:
+      - q: "Eu falo português."
+        a: "من پرتغالی صحبت می‌کنم."
+        labels: ["حال", "اول شخص مفرد"]
+        rel:
+          - ["falo", "صحبت می‌کنم", "falar - من صحبت می‌کنم"]
+          - ["português", "پرتغالی", "زبان"]
+
+      - q: "Tu falas muito alto."
+        a: "تو خیلی بلند صحبت می‌کنی."
+        labels: ["حال", "دوم شخص مفرد"]
+        rel:
+          - ["falas", "صحبت می‌کنی", "falar - تو صحبت می‌کنی"]
+          - ["alto", "بلند", "قید"]
+
+      - q: "Ela fala com o chefe."
+        a: "او با رئیس صحبت می‌کند."
+        labels: ["حال", "سوم شخص مفرد"]
+        rel:
+          - ["fala", "صحبت می‌کند", "falar - او صحبت می‌کند"]
+          - ["chefe", "رئیس", "اسم - شغل"]
+
+      - q: "Nós falamos sobre política."
+        a: "ما درباره سیاست صحبت می‌کنیم."
+        labels: ["حال", "اول شخص جمع"]
+        rel:
+          - ["falamos", "صحبت می‌کنیم", "falar - ما صحبت می‌کنیم"]
+          - ["sobre", "درباره", "حرف اضافه"]
+          - ["política", "سیاست", "اسم"]
+
+      - q: "Vós falais a verdade?"
+        a: "آیا حقیقت را می‌گویید؟"
+        labels: ["حال", "دوم شخص جمع", "سوال"]
+        rel:
+          - ["falais", "می‌گویید", "falar - شما صحبت می‌کنید"]
+          - ["verdade", "حقیقت", "اسم"]
+
+      - q: "Eles falam inglês bem."
+        a: "آن‌ها انگلیسی را خوب صحبت می‌کنند."
+        labels: ["حال", "سوم شخص جمع"]
+        rel:
+          - ["falam", "صحبت می‌کنند", "falar - آن‌ها صحبت می‌کنند"]
+          - ["inglês", "انگلیسی", "زبان"]
+
+      - q: "Falando assim, ofendes as pessoas."
+        a: "اینطوری حرف زدن، مردم را ناراحت می‌کنی."
+        labels: ["Gerúndio"]
+        rel:
+          - ["falando", "صحبت کردن", "falar - وجه وصفی"]
+          - ["assim", "اینطور", "قید"]
+          - ["pessoas", "مردم", "اسم"]
+
+  - title: "Ouvir"
+    explanation: |
+      **Ouvir** به معنی **شنیدن** است:
+      - شنیدن، گوش دادن
+      - به کسی گوش دادن
+      - موسیقی گوش دادن
+
+      **صرف زمان حال**:
+      - eu ouço (من می‌شنوم)
+      - tu ouves (تو می‌شنوی)
+      - ele/ela/você ouve (او می‌شنود)
+      - nós ouvimos (ما می‌شنویم)
+      - vós ouvis (شما می‌شنوید)
+      - eles/elas ouvem (آن‌ها می‌شنوند)
+      - **Gerúndio**: ouvindo (شنیدن)
+    examples:
+      - q: "Eu ouço música."
+        a: "من موسیقی گوش می‌دهم."
+        labels: ["حال", "اول شخص مفرد"]
+        rel:
+          - ["ouço", "گوش می‌دهم", "ouvir - من می‌شنوم"]
+          - ["música", "موسیقی", "اسم"]
+
+      - q: "Tu ouves um barulho?"
+        a: "آیا صدایی می‌شنوی؟"
+        labels: ["حال", "دوم شخص مفرد", "سوال"]
+        rel:
+          - ["ouves", "می‌شنوی", "ouvir - تو می‌شنوی"]
+          - ["barulho", "صدا/سروصدا", "اسم"]
+
+      - q: "Ela ouve a rádio."
+        a: "او رادیو گوش می‌دهد."
+        labels: ["حال", "سوم شخص مفرد"]
+        rel:
+          - ["ouve", "گوش می‌دهد", "ouvir - او می‌شنود"]
+          - ["rádio", "رادیو", "اسم"]
+
+      - q: "Nós ouvimos a notícia."
+        a: "ما خبر را می‌شنویم."
+        labels: ["حال", "اول شخص جمع"]
+        rel:
+          - ["ouvimos", "می‌شنویم", "ouvir - ما می‌شنویم"]
+          - ["notícia", "خبر", "اسم"]
+
+      - q: "Vós ouvis os pássaros?"
+        a: "آیا پرنده‌ها را می‌شنوید؟"
+        labels: ["حال", "دوم شخص جمع", "سوال"]
+        rel:
+          - ["ouvis", "می‌شنوید", "ouvir - شما می‌شنوید"]
+          - ["pássaros", "پرنده‌ها", "اسم - حیوان"]
+
+      - q: "Eles ouvem conselhos."
+        a: "آن‌ها به نصیحت‌ها گوش می‌دهند."
+        labels: ["حال", "سوم شخص جمع"]
+        rel:
+          - ["ouvem", "گوش می‌دهند", "ouvir - آن‌ها می‌شنوند"]
+          - ["conselhos", "نصیحت‌ها", "اسم"]
+
+      - q: "Ouvindo isso, fico triste."
+        a: "با شنیدن آن، غمگین می‌شوم."
+        labels: ["Gerúndio"]
+        rel:
+          - ["ouvindo", "شنیدن", "ouvir - وجه وصفی"]
+          - ["isso", "آن", "ضمیر"]
+          - ["triste", "غمگین", "صفت"]
+
+  - title: "اصطلاحات ارتباطی"
+    explanation: |
+      **اصطلاحات رایج**:
+      - Falar mal de = بد گفتن درباره کسی
+      - Falar sério = جدی حرف زدن
+      - Ouvir falar de = درباره چیزی شنیدن
+      - Pensar bem = خوب فکر کردن
+    examples:
+      - q: "Não fales mal dos outros."
+        a: "درباره دیگران بد نگو."
+        labels: ["امری", "اصطلاح"]
+        rel:
+          - ["falar mal", "بد گفتن", "اصطلاح"]
+          - ["outros", "دیگران", "ضمیر"]
+
+      - q: "Estou a falar a sério."
+        a: "من جدی هستم."
+        labels: ["اصطلاح"]
+        rel:
+          - ["falar a sério", "جدی بودن", "اصطلاح"]
+          - ["a sério", "جدی", "اصطلاح"]
+
+      - q: "Ouvi falar desse restaurante."
+        a: "درباره آن رستوران شنیده‌ام."
+        labels: ["اصطلاح"]
+        rel:
+          - ["ouvir falar de", "درباره چیزی شنیدن", "اصطلاح"]
+          - ["restaurante", "رستوران", "اسم"]
+
+      - q: "Pensa bem antes de decidir."
+        a: "قبل از تصمیم گرفتن خوب فکر کن."
+        labels: ["اصطلاح", "نصیحت"]
+        rel:
+          - ["pensar bem", "خوب فکر کردن", "اصطلاح"]
+          - ["antes de", "قبل از", "حرف ربط"]
+          - ["decidir", "تصمیم گرفتن", "فعل"]

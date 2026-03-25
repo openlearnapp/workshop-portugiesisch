@@ -1,0 +1,257 @@
+number: 3
+title: "Modal Verbs and Communication - Can, Say, Give"
+description: "The verbs poder, dizer and dar with all conjugations"
+sections:
+  - title: "Poder"
+    explanation: |
+      **Poder** means **can/may** and is used for:
+      - Ability (I can swim)
+      - Permission (may I?)
+      - Possibility (it can be)
+
+      **Present tense conjugation**:
+      - eu posso (I can)
+      - tu podes (you can)
+      - ele/ela/você pode (he/she can, you can)
+      - nós podemos (we can)
+      - vós podeis (you can - plural)
+      - eles/elas podem (they can)
+      - **Gerúndio**: podendo (being able to)
+    examples:
+      - q: "Eu posso ajudar?"
+        a: "Can I help?"
+        labels: ["Present", "1st Person Singular", "Question"]
+        rel:
+          - ["posso", "can", "poder - I can"]
+          - ["ajudar", "to help", "Verb - Infinitive"]
+
+      - q: "Tu podes falar português?"
+        a: "Can you speak Portuguese?"
+        labels: ["Present", "2nd Person Singular", "Question"]
+        rel:
+          - ["podes", "can", "poder - you can"]
+          - ["falar", "to speak", "Verb"]
+          - ["português", "Portuguese", "Language"]
+
+      - q: "Ele pode vir connosco."
+        a: "He can come with us."
+        labels: ["Present", "3rd Person Singular"]
+        rel:
+          - ["pode", "can", "poder - he/she/it can"]
+          - ["vir", "to come", "Verb"]
+          - ["connosco", "with us", "Pronoun"]
+
+      - q: "Nós podemos comer aqui."
+        a: "We can eat here."
+        labels: ["Present", "1st Person Plural"]
+        rel:
+          - ["podemos", "can", "poder - we can"]
+          - ["comer", "to eat", "Verb"]
+          - ["aqui", "here", "Location"]
+
+      - q: "Vós podeis esperar?"
+        a: "Can you wait?"
+        labels: ["Present", "2nd Person Plural", "Question"]
+        rel:
+          - ["podeis", "can", "poder - you can"]
+          - ["esperar", "to wait", "Verb"]
+
+      - q: "Eles podem começar agora."
+        a: "They can start now."
+        labels: ["Present", "3rd Person Plural"]
+        rel:
+          - ["podem", "can", "poder - they can"]
+          - ["começar", "to start", "Verb"]
+          - ["agora", "now", "Time"]
+
+      - q: "Podendo escolher, prefiro café."
+        a: "If I can choose, I prefer coffee."
+        labels: ["Gerúndio"]
+        rel:
+          - ["podendo", "being able to", "poder - Gerund"]
+          - ["escolher", "to choose", "Verb"]
+          - ["café", "coffee", "Noun - Drink"]
+
+  - title: "Dizer"
+    explanation: |
+      **Dizer** means **to say** and is used for:
+      - Telling something
+      - Reporting, narrating
+      - Often with "que" (that)
+
+      **Present tense conjugation**:
+      - eu digo (I say)
+      - tu dizes (you say)
+      - ele/ela/você diz (he/she says, you say)
+      - nós dizemos (we say)
+      - vós dizeis (you say - plural)
+      - eles/elas dizem (they say)
+      - **Gerúndio**: dizendo (saying)
+    examples:
+      - q: "Eu digo a verdade."
+        a: "I tell the truth."
+        labels: ["Present", "1st Person Singular"]
+        rel:
+          - ["digo", "say", "dizer - I say"]
+          - ["a verdade", "the truth", "Noun"]
+          - ["verdade", "truth", "Noun"]
+
+      - q: "Tu dizes sempre isso."
+        a: "You always say that."
+        labels: ["Present", "2nd Person Singular"]
+        rel:
+          - ["dizes", "say", "dizer - you say"]
+          - ["sempre", "always", "Adverb - Frequency"]
+          - ["isso", "that", "Pronoun"]
+
+      - q: "Ela diz que sim."
+        a: "She says yes."
+        labels: ["Present", "3rd Person Singular"]
+        rel:
+          - ["diz", "says", "dizer - he/she/it says"]
+          - ["que", "that", "Conjunction"]
+          - ["sim", "yes", "Adverb"]
+
+      - q: "Nós dizemos olá."
+        a: "We say hello."
+        labels: ["Present", "1st Person Plural"]
+        rel:
+          - ["dizemos", "say", "dizer - we say"]
+          - ["olá", "hello", "Greeting"]
+
+      - q: "Vós dizeis coisas engraçadas."
+        a: "You say funny things."
+        labels: ["Present", "2nd Person Plural"]
+        rel:
+          - ["dizeis", "say", "dizer - you say"]
+          - ["coisas", "things", "Noun"]
+          - ["engraçadas", "funny", "Adjective"]
+
+      - q: "Eles dizem que não."
+        a: "They say no."
+        labels: ["Present", "3rd Person Plural"]
+        rel:
+          - ["dizem", "say", "dizer - they say"]
+          - ["não", "no / not", "Negation"]
+
+      - q: "Dizendo isto, ele saiu."
+        a: "Saying this, he left."
+        labels: ["Gerúndio"]
+        rel:
+          - ["dizendo", "saying", "dizer - Gerund"]
+          - ["isto", "this", "Pronoun"]
+          - ["saiu", "left", "sair - Past"]
+
+  - title: "Dar"
+    explanation: |
+      **Dar** means **to give** and is used for:
+      - Handing something over
+      - Gifting
+      - Many expressions (dar um passeio = to take a walk)
+
+      **Present tense conjugation**:
+      - eu dou (I give)
+      - tu dás (you give)
+      - ele/ela/você dá (he/she gives, you give)
+      - nós damos (we give)
+      - vós dais (you give - plural)
+      - eles/elas dão (they give)
+      - **Gerúndio**: dando (giving)
+    examples:
+      - q: "Eu dou um presente."
+        a: "I give a gift."
+        labels: ["Present", "1st Person Singular"]
+        rel:
+          - ["dou", "give", "dar - I give"]
+          - ["um presente", "a gift", "Noun"]
+          - ["presente", "gift", "Noun"]
+
+      - q: "Tu dás o livro ao professor."
+        a: "You give the book to the teacher."
+        labels: ["Present", "2nd Person Singular"]
+        rel:
+          - ["dás", "give", "dar - you give"]
+          - ["o livro", "the book", "Noun"]
+          - ["ao professor", "to the teacher", "Dative"]
+
+      - q: "Ele dá aulas de música."
+        a: "He gives music lessons."
+        labels: ["Present", "3rd Person Singular"]
+        rel:
+          - ["dá", "gives", "dar - he/she/it gives"]
+          - ["aulas", "lessons", "Noun"]
+          - ["música", "music", "Noun"]
+
+      - q: "Nós damos as boas-vindas."
+        a: "We welcome."
+        labels: ["Present", "1st Person Plural"]
+        rel:
+          - ["damos", "give", "dar - we give"]
+          - ["as boas-vindas", "welcome", "Expression"]
+
+      - q: "Vós dais esmola?"
+        a: "Do you give alms?"
+        labels: ["Present", "2nd Person Plural", "Question"]
+        rel:
+          - ["dais", "give", "dar - you give"]
+          - ["esmola", "alms", "Noun"]
+
+      - q: "Eles dão comida aos pobres."
+        a: "They give food to the poor."
+        labels: ["Present", "3rd Person Plural"]
+        rel:
+          - ["dão", "give", "dar - they give"]
+          - ["comida", "food", "Noun"]
+          - ["aos pobres", "to the poor", "Dative"]
+
+      - q: "Dando tudo, consigo vencer."
+        a: "Giving everything, I can win."
+        labels: ["Gerúndio"]
+        rel:
+          - ["dando", "giving", "dar - Gerund"]
+          - ["tudo", "everything", "Pronoun"]
+          - ["vencer", "to win", "Verb"]
+
+  - title: "Requests with Poder"
+    explanation: |
+      **Poder** is often used for **polite requests**:
+      - Posso...? = Can I...? / May I...?
+      - Pode...? = Can you...? / Could you...?
+      - Poderia...? = Could you...? (more polite)
+    examples:
+      - q: "Posso entrar?"
+        a: "May I come in?"
+        labels: ["Politeness", "Request"]
+        rel:
+          - ["posso", "may I", "poder - Permission"]
+          - ["entrar", "to come in", "Verb"]
+
+      - q: "Pode repetir, por favor?"
+        a: "Can you repeat that, please?"
+        labels: ["Politeness", "Request"]
+        rel:
+          - ["pode", "can you", "poder - polite"]
+          - ["repetir", "to repeat", "Verb"]
+          - ["por favor", "please", "Polite form"]
+
+      - q: "Podemos sentar aqui?"
+        a: "Can we sit here?"
+        labels: ["Politeness", "Request"]
+        rel:
+          - ["podemos", "can we", "poder"]
+          - ["sentar", "to sit", "Verb"]
+
+      - q: "Posso fazer uma pergunta?"
+        a: "May I ask a question?"
+        labels: ["Politeness", "Request"]
+        rel:
+          - ["posso fazer", "may I ask", "Modal + Verb"]
+          - ["uma pergunta", "a question", "Noun"]
+          - ["pergunta", "question", "Noun"]
+
+      - q: "Pode dar-me as horas?"
+        a: "Can you tell me the time?"
+        labels: ["Politeness", "Expression"]
+        rel:
+          - ["pode dar-me", "can you give me", "Expression"]
+          - ["as horas", "the time", "Noun"]
