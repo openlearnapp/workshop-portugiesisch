@@ -6,5 +6,6 @@ workshops:
     color: "30 50% 95%"
     primaryColor: "25 80% 50%"
     image: "portugiesisch/thumbnail.svg"
+    labels: ["Language"]
     coach:
       email: "open-learn@felixboehm.it"
