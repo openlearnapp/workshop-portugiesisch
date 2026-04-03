@@ -5,7 +5,7 @@ workshops:
     description: "10 lessons on the 30 most important Portuguese verbs and their conjugations."
     color: "30 50% 95%"
     primaryColor: "25 80% 50%"
-    image: "portugiesisch/thumbnail.svg"
+    image: "portuguese/thumbnail.svg"
     labels: ["Language"]
     coach:
       email: "open-learn@felixboehm.it"
